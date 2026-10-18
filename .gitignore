@@ -1,0 +1,10 @@
+# local-only files: never committed
+scrape.mjs
+docs/
+*.log
+
+# dependencies
+node_modules/
+
+# generated site (GitHub Pages artifact, rebuilt by build_site.mjs)
+site/

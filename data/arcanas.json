@@ -1,0 +1,3424 @@
+{
+  "entries": [
+    {
+      "slug": "you-call-this-an-outfit",
+      "name": "これが…服？",
+      "characterName": "リディア",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7106001.webp",
+      "illustrationId": "7106001",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "会心率",
+              "icon": "wiki/images/general/combat_stats/stat.rate_critical.webp"
+            },
+            {
+              "label": "救援者",
+              "icon": "wiki/images/arcanas/icons/tag.savior.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "特別なコディネート",
+        "effect": "絆ポイントが50以上の場合 感応トレーニングの発生率の上昇 +140"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+5\n潜在力ポイント増加\n+9\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+15.44%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+80\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n同族の匂い\n\n成功\n+10 力\n平常心の鍛錬\n\n妄想の資格条件\n\n成功\n+15 力\n+10 体力\n+10 潜在力ポイント\n攻撃の腕前\n\n平常心はメイド服とともに\n\nもう十分だよ。そこまでにしよう。\n\n成功\n+12 力\n+8 体力\n+20 潜在力ポイント\n空虚の手振り\n\n約束は約束だから…もう少しだけやってみよう。\n\n成功\n+12 力\n+8 体力\n+15 スタミナ\n空虚の手振り",
+      "rawText": "ホーム\nデータベース\nアルカナ\nこれが…服？\n\nリディア\n\nこれが…服？\n\nメインステータス\n\n力\n\nアシスト\n\n会心率\n救援者\n\n特別なコディネート\n\n絆ポイントが50以上の場合 感応トレーニングの発生率の上昇 +140\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+5\n潜在力ポイント増加\n+9\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+15.44%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+80\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n同族の匂い\n\n成功\n+10 力\n平常心の鍛錬\n\n妄想の資格条件\n\n成功\n+15 力\n+10 体力\n+10 潜在力ポイント\n攻撃の腕前\n\n平常心はメイド服とともに\n\nもう十分だよ。そこまでにしよう。\n\n成功\n+12 力\n+8 体力\n+20 潜在力ポイント\n空虚の手振り\n\n約束は約束だから…もう少しだけやってみよう。\n\n成功\n+12 力\n+8 体力\n+15 スタミナ\n空虚の手振り"
+    },
+    {
+      "slug": "a-self-proclaimed-veteran-detective-memory",
+      "name": "自称ベテラン探偵の捜査法",
+      "characterName": "グウェン",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7104001.webp",
+      "illustrationId": "7104001",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "ストライカー",
+              "icon": "wiki/images/characters/icon/class.striker.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "なんだか順調な調査！",
+        "effect": "絆ポイントが40以上の場合 トレーニングの効果上昇 +9.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+7\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+13.76%\nコンディション効果上昇\n+3.5%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\nデザート密室失踪事件\n\n沈黙する。\n\n成功\n+10 力\n+5 スタミナ\n+10 潜在力ポイント\n攻撃の感覚\n\nグウェンを指差す。\n\n成功\n+10 体力\n+10 潜在力ポイント\n攻撃の腕前\n\nグウェンの天敵\n\n成功\n+12 力\n+10 潜在力ポイント\n特技は聞き込み！\n\n特技は潜入捜査\n\n成功\n+15 力\n+15 スタミナ\n+10 潜在力ポイント\n戦闘の熱気",
+      "rawText": "ホーム\nデータベース\nアルカナ\n自称ベテラン探偵の捜査法\n\nグウェン\n\n自称ベテラン探偵の捜査法\n\nメインステータス\n\n力\n\nアシスト\n\n特殊効果\nストライカー\n\nなんだか順調な調査！\n\n絆ポイントが40以上の場合 トレーニングの効果上昇 +9.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+7\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+13.76%\nコンディション効果上昇\n+3.5%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\nデザート密室失踪事件\n\n沈黙する。\n\n成功\n+10 力\n+5 スタミナ\n+10 潜在力ポイント\n攻撃の感覚\n\nグウェンを指差す。\n\n成功\n+10 体力\n+10 潜在力ポイント\n攻撃の腕前\n\nグウェンの天敵\n\n成功\n+12 力\n+10 潜在力ポイント\n特技は聞き込み！\n\n特技は潜入捜査\n\n成功\n+15 力\n+15 スタミナ\n+10 潜在力ポイント\n戦闘の熱気"
+    },
+    {
+      "slug": "a-hedonists-diversion",
+      "name": "享楽者の慰み",
+      "characterName": "プロフェッサーM",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7103901.webp",
+      "illustrationId": "7103901",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "レンジャー",
+              "icon": "wiki/images/characters/icon/class.ranger.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "冷たい理解",
+        "effect": "絆ポイントが40以上の場合 追加忍耐ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+12\nトレーニング効果\n追加忍耐ステータス獲得\n+2\nトレーニングの効果上昇\n+13.76%\nコンディション効果上昇\n+5.9%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+80\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n人気講座の秘訣\n\n講義のテーマに問題があるんじゃないかな？\n\n成功\n+10 忍耐\n+10 集中\n\n講義のやり方に問題があるんじゃないかな？\n\n成功\n集中の感覚\n\nクロスワード\n\nグウェンに渡す。\n\n成功\n+12 忍耐\n+8 体力\n速度の腕前\n\n教授に渡す。\n\n成功\n+12 忍耐\n+8 体力\n洞察の腕前\n\n桃色の研究\n\n桃色の研究：未来を知る予言者\n\n成功\n+15 忍耐\n+20 潜在力ポイント\n鋭い姿勢\n\n桃色の研究：モノリス教団の聖女\n\n成功\n+18 集中\n集中の才能\n鋭い姿勢",
+      "rawText": "ホーム\nデータベース\nアルカナ\n享楽者の慰み\n\nプロフェッサーM\n\n享楽者の慰み\n\nメインステータス\n\n忍耐\n\nアシスト\n\n特殊効果\nレンジャー\n\n冷たい理解\n\n絆ポイントが40以上の場合 追加忍耐ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+12\nトレーニング効果\n追加忍耐ステータス獲得\n+2\nトレーニングの効果上昇\n+13.76%\nコンディション効果上昇\n+5.9%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+80\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n人気講座の秘訣\n\n講義のテーマに問題があるんじゃないかな？\n\n成功\n+10 忍耐\n+10 集中\n\n講義のやり方に問題があるんじゃないかな？\n\n成功\n集中の感覚\n\nクロスワード\n\nグウェンに渡す。\n\n成功\n+12 忍耐\n+8 体力\n速度の腕前\n\n教授に渡す。\n\n成功\n+12 忍耐\n+8 体力\n洞察の腕前\n\n桃色の研究\n\n桃色の研究：未来を知る予言者\n\n成功\n+15 忍耐\n+20 潜在力ポイント\n鋭い姿勢\n\n桃色の研究：モノリス教団の聖女\n\n成功\n+18 集中\n集中の才能\n鋭い姿勢"
+    },
+    {
+      "slug": "journey-of-no-return",
+      "name": "帰路なき旅程",
+      "characterName": "アモラ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7105801.webp",
+      "illustrationId": "7105801",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "アサシン",
+              "icon": "wiki/images/characters/icon/class.assassin.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "試し執行",
+        "effect": "絆ポイントが30以上の場合 追加体力ステータス獲得 +2"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+12\nトレーニング効果\n追加体力ステータス獲得\n+1\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+7.6%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+105\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\nマスターシェフ・ラビスター\n\n香りを味わいながら飲む。\n\n成功\n+1 コンディション\n+8 体力\n\n一気に飲み干す。\n\n成功\n+10 体力\n+15 潜在力ポイント\n破壊の腕前\n\nとある午後の平穏\n\n成功\n+5 スタミナ\n+8 力\n+15 体力\n\n伯爵の悩み\n\n成功\n+8 力\n+15 体力\n+10 集中\n清らに醸す香り",
+      "rawText": "ホーム\nデータベース\nアルカナ\n帰路なき旅程\n\nアモラ\n\n帰路なき旅程\n\nメインステータス\n\n体力\n\nアシスト\n\n特殊効果\nアサシン\n\n試し執行\n\n絆ポイントが30以上の場合 追加体力ステータス獲得 +2\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+12\nトレーニング効果\n追加体力ステータス獲得\n+1\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+7.6%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+105\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\nマスターシェフ・ラビスター\n\n香りを味わいながら飲む。\n\n成功\n+1 コンディション\n+8 体力\n\n一気に飲み干す。\n\n成功\n+10 体力\n+15 潜在力ポイント\n破壊の腕前\n\nとある午後の平穏\n\n成功\n+5 スタミナ\n+8 力\n+15 体力\n\n伯爵の悩み\n\n成功\n+8 力\n+15 体力\n+10 集中\n清らに醸す香り"
+    },
+    {
+      "slug": "bound-for-eternity",
+      "name": "永遠なる束縛の連鎖",
+      "characterName": "クリステル",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7101701.webp",
+      "illustrationId": "7101701",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "攻撃力",
+              "icon": "wiki/images/general/combat_stats/stat.atk.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "冷めぬ熱望",
+        "effect": "絆ポイントが40以上の場合 追加集中ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n集中\n+3\nトレーニング効果\n追加力ステータス獲得\n+2\nトレーニングの効果上昇\n+15.44%\nトレーニング出現確率上昇\n+6%\nコンディション効果上昇\n+7.6%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n運命に向き合う姿勢\n\n成功\n+10 力\n+5 集中\n+5 スタミナ\n攻撃の感覚\n\nエデよ、パパだぞ！\n\nきっと演技に違いない。\n\n成功\n+15 力\n+8 体力\n+12 集中\n集中の腕前\n失敗\n+15 力\n+8 集中\n集中の腕前\n\nとりあえず謝るべきじゃないか？\n\n成功\n+15 力\n+12 集中\n+1 コンディション\n失敗\n+15 力\n+12 集中\n\n服を溶かす薬\n\n成功\n+15 力\n+12 集中\n+10 スタミナ\n攻撃の聖痕",
+      "rawText": "ホーム\nデータベース\nアルカナ\n永遠なる束縛の連鎖\n\nクリステル\n\n永遠なる束縛の連鎖\n\nメインステータス\n\n集中\n\nアシスト\n\n攻撃力\n共用\n\n冷めぬ熱望\n\n絆ポイントが40以上の場合 追加集中ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n集中\n+3\nトレーニング効果\n追加力ステータス獲得\n+2\nトレーニングの効果上昇\n+15.44%\nトレーニング出現確率上昇\n+6%\nコンディション効果上昇\n+7.6%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n運命に向き合う姿勢\n\n成功\n+10 力\n+5 集中\n+5 スタミナ\n攻撃の感覚\n\nエデよ、パパだぞ！\n\nきっと演技に違いない。\n\n成功\n+15 力\n+8 体力\n+12 集中\n集中の腕前\n失敗\n+15 力\n+8 集中\n集中の腕前\n\nとりあえず謝るべきじゃないか？\n\n成功\n+15 力\n+12 集中\n+1 コンディション\n失敗\n+15 力\n+12 集中\n\n服を溶かす薬\n\n成功\n+15 力\n+12 集中\n+10 スタミナ\n攻撃の聖痕"
+    },
+    {
+      "slug": "vacation-prep-time-to-shop",
+      "name": "バカンスの準備はお買い物から！",
+      "characterName": "スマイル",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7104601.webp",
+      "illustrationId": "7104601",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "救援者",
+              "icon": "wiki/images/arcanas/icons/tag.savior.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "クーリングブースト",
+        "effect": "絆ポイントが50以上の場合 感応トレーニングの発生率の上昇 +150"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n集中\n+6\n絆ポイント増加\n+14\nトレーニング効果\n追加力ステータス獲得\n+1\nトレーニングの効果上昇\n+10.4%\nコンディション効果上昇\n+7.6%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n種の進化\n\n頭をそっと撫でてみよう。\n\n成功\n+10 力\n+10 潜在力ポイント\n\n今だ！アセラみたいにお腹を触るんだ！\n\n成功\n+20 集中\n+10 潜在力ポイント\n\n笑いの調査\n\n成功\n+10 力\n+10 集中\n攻撃の腕前\n\n二人だけの秘密\n\n成功\n+12 力\n+5 体力\n+10 集中\n速度の感覚\n笑い誘発メカニズム",
+      "rawText": "ホーム\nデータベース\nアルカナ\nバカンスの準備はお買い物から！\n\nスマイル\n\nバカンスの準備はお買い物から！\n\nメインステータス\n\n力\n\nアシスト\n\n特殊効果\n救援者\n\nクーリングブースト\n\n絆ポイントが50以上の場合 感応トレーニングの発生率の上昇 +150\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n集中\n+6\n絆ポイント増加\n+14\nトレーニング効果\n追加力ステータス獲得\n+1\nトレーニングの効果上昇\n+10.4%\nコンディション効果上昇\n+7.6%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n種の進化\n\n頭をそっと撫でてみよう。\n\n成功\n+10 力\n+10 潜在力ポイント\n\n今だ！アセラみたいにお腹を触るんだ！\n\n成功\n+20 集中\n+10 潜在力ポイント\n\n笑いの調査\n\n成功\n+10 力\n+10 集中\n攻撃の腕前\n\n二人だけの秘密\n\n成功\n+12 力\n+5 体力\n+10 集中\n速度の感覚\n笑い誘発メカニズム"
+    },
+    {
+      "slug": "a-midsummer-nights-sky",
+      "name": "夏の夜の空",
+      "characterName": "ルナ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7104501.webp",
+      "illustrationId": "7104501",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "ディフェンダー",
+              "icon": "wiki/images/characters/icon/class.defender.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "ささやかな奇跡",
+        "effect": "絆ポイントが30以上の場合 トレーニングの効果上昇 +8.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+12\nトレーニング効果\n追加体力ステータス獲得\n+1\nトレーニングの効果上昇\n+10.4%\nコンディション効果上昇\n+3%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+375\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n何でも聞いてくださいな\n\n成功\n+10 体力\n+8 集中\n防御の腕前\n\n未来は手の中に\n\n成功\n+12 体力\n+10 集中\n集中の才能\n\nこれは修行だ！\n\n成功\n+12 体力\n+15 集中\n確固な信頼",
+      "rawText": "ホーム\nデータベース\nアルカナ\n夏の夜の空\n\nルナ\n\n夏の夜の空\n\nメインステータス\n\n体力\n\nアシスト\n\n特殊効果\nディフェンダー\n\nささやかな奇跡\n\n絆ポイントが30以上の場合 トレーニングの効果上昇 +8.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+12\nトレーニング効果\n追加体力ステータス獲得\n+1\nトレーニングの効果上昇\n+10.4%\nコンディション効果上昇\n+3%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+375\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n何でも聞いてくださいな\n\n成功\n+10 体力\n+8 集中\n防御の腕前\n\n未来は手の中に\n\n成功\n+12 体力\n+10 集中\n集中の才能\n\nこれは修行だ！\n\n成功\n+12 体力\n+15 集中\n確固な信頼"
+    },
+    {
+      "slug": "follow-the-light",
+      "name": "光を追え！",
+      "characterName": "ルナ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7100301.webp",
+      "illustrationId": "7100301",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "救援者",
+              "icon": "wiki/images/arcanas/icons/tag.savior.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "ブレイブガール・ロード",
+        "effect": "絆ポイントが50以上の場合 追加力ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+6\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+3.94%\n追加潜在力ポイントの獲得\n+3\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+105\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n何でも聞いてくださいな\n\n成功\n+12 力\n+8 集中\n生存王\n\n未来は手の中に\n\n成功\n+20 潜在力ポイント\n攻撃の腕前\n\nカモ\n\n成功\n+15 力\n+25 潜在力ポイント\n運命の道",
+      "rawText": "ホーム\nデータベース\nアルカナ\n光を追え！\n\nルナ\n\n光を追え！\n\nメインステータス\n\n力\n\nアシスト\n\n特殊効果\n救援者\n\nブレイブガール・ロード\n\n絆ポイントが50以上の場合 追加力ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+6\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+3.94%\n追加潜在力ポイントの獲得\n+3\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+105\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n何でも聞いてくださいな\n\n成功\n+12 力\n+8 集中\n生存王\n\n未来は手の中に\n\n成功\n+20 潜在力ポイント\n攻撃の腕前\n\nカモ\n\n成功\n+15 力\n+25 潜在力ポイント\n運命の道"
+    },
+    {
+      "slug": "even-if-its-poison",
+      "name": "服毒の覚悟",
+      "characterName": "セレス",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7103302.webp",
+      "illustrationId": "7103302",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "ストライカー",
+              "icon": "wiki/images/characters/icon/class.striker.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "西部の意志",
+        "effect": "絆ポイントが60以上の場合 追加力ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+6\n絆ポイント増加\n+3\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+7.6%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n力を得たいか\n\n成功\n+10 力\n+10 スタミナ\nシュガーハイ\n\n基準の違い\n\n成功\n+10 力\n+10 体力\n\n寝るだけでトレーニング成功？\n\n成功\n+15 力\n+15 体力\n柔軟な判断",
+      "rawText": "ホーム\nデータベース\nアルカナ\n服毒の覚悟\n\nセレス\n\n服毒の覚悟\n\nメインステータス\n\n力\n\nアシスト\n\n特殊効果\nストライカー\n\n西部の意志\n\n絆ポイントが60以上の場合 追加力ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+6\n絆ポイント増加\n+3\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+7.6%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n力を得たいか\n\n成功\n+10 力\n+10 スタミナ\nシュガーハイ\n\n基準の違い\n\n成功\n+10 力\n+10 体力\n\n寝るだけでトレーニング成功？\n\n成功\n+15 力\n+15 体力\n柔軟な判断"
+    },
+    {
+      "slug": "death-for-the-flowers",
+      "name": "花々に死を",
+      "characterName": "カネリア",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7100501.webp",
+      "illustrationId": "7100501",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "会心率",
+              "icon": "wiki/images/general/combat_stats/stat.rate_critical.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "暁の導き",
+        "effect": "絆ポイントが30以上の場合 コンディション効果上昇 +5.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+12\nトレーニング効果\n追加力ステータス獲得\n+1\nトレーニングの効果上昇\n+12.08%\n追加潜在力ポイントの獲得\n+3\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\nデスクワークはいつもハレのちグゥ\n\n謝って反省しよう！\n\n成功\n+10 忍耐\n+12 集中\n\nこうなったら、同情でも買ってみよう！\n\n成功\n破壊の感覚\n\nサロン・イン・ザ・アフタヌーン\n\n一緒にティータイムを楽しむ。\n\n成功\n+10 忍耐\n洞察の腕前\n\n…ここから離れよう。\n\n成功\n+10 忍耐\n破壊の腕前\n\n変わるモノと変わらないモノ\n\n成功\n+10 忍耐\n+12 集中\n+15 潜在力ポイント\n洞察の聖痕",
+      "rawText": "ホーム\nデータベース\nアルカナ\n花々に死を\n\nカネリア\n\n花々に死を\n\nメインステータス\n\n忍耐\n\nアシスト\n\n会心率\n共用\n\n暁の導き\n\n絆ポイントが30以上の場合 コンディション効果上昇 +5.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+12\nトレーニング効果\n追加力ステータス獲得\n+1\nトレーニングの効果上昇\n+12.08%\n追加潜在力ポイントの獲得\n+3\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\nデスクワークはいつもハレのちグゥ\n\n謝って反省しよう！\n\n成功\n+10 忍耐\n+12 集中\n\nこうなったら、同情でも買ってみよう！\n\n成功\n破壊の感覚\n\nサロン・イン・ザ・アフタヌーン\n\n一緒にティータイムを楽しむ。\n\n成功\n+10 忍耐\n洞察の腕前\n\n…ここから離れよう。\n\n成功\n+10 忍耐\n破壊の腕前\n\n変わるモノと変わらないモノ\n\n成功\n+10 忍耐\n+12 集中\n+15 潜在力ポイント\n洞察の聖痕"
+    },
+    {
+      "slug": "till-death-do-us-part",
+      "name": "死が二人を分かつまで",
+      "characterName": "エピンデル",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7105601.webp",
+      "illustrationId": "7105601",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "キャスター",
+              "icon": "wiki/images/characters/icon/class.caster.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "若鷹の内助",
+        "effect": "絆ポイントが40以上の場合 トレーニングの効果上昇 +10.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+11\n絆ポイント増加\n+14\nトレーニング効果\nトレーニングの効果上昇\n+13.76%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n教養の証明\n\n成功\n+5 力\n+5 集中\n+10 スタミナ\n\n犬鷹の仲\n\n成功\n+10 力\n+8 集中\n速度の感覚\n\n蘇った私の全盛期\n\n成功\n+15 力\n+10 集中\n+10 潜在力ポイント\n紅の誓い",
+      "rawText": "ホーム\nデータベース\nアルカナ\n死が二人を分かつまで\n\nエピンデル\n\n死が二人を分かつまで\n\nメインステータス\n\n力\n\nアシスト\n\n特殊効果\nキャスター\n\n若鷹の内助\n\n絆ポイントが40以上の場合 トレーニングの効果上昇 +10.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+11\n絆ポイント増加\n+14\nトレーニング効果\nトレーニングの効果上昇\n+13.76%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n教養の証明\n\n成功\n+5 力\n+5 集中\n+10 スタミナ\n\n犬鷹の仲\n\n成功\n+10 力\n+8 集中\n速度の感覚\n\n蘇った私の全盛期\n\n成功\n+15 力\n+10 集中\n+10 潜在力ポイント\n紅の誓い"
+    },
+    {
+      "slug": "a-drowsy-afternoon-interlude",
+      "name": "気怠い午後の隙間",
+      "characterName": "カルメン",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7105501.webp",
+      "illustrationId": "7105501",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "強靭度",
+              "icon": "wiki/images/arcanas/icons/tag.toughness.webp"
+            },
+            {
+              "label": "救援者",
+              "icon": "wiki/images/arcanas/icons/tag.savior.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "騎士の内助",
+        "effect": "絆ポイントが50以上の場合 追加体力ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n体力\n+2\n潜在力ポイント増加\n+7\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+5.1%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+27.52%\nイベント\n\n誰のためにスープを作るのか\n\nうん、じゃあ一杯お願いしてもいいかな？\n\n成功\n-5 スタミナ\n+20 潜在力ポイント\n\nいや、民間人用で十分だよ…\n\n成功\n共感能力\n\n世渡り上手\n\n分かった。できるだけ変に書いてみるよ。\n\n成功\n+5 体力\n生命の腕前\n失敗\n+20 体力\n-5 スタミナ\n生命の腕前\n\nもっと良いアイデアがあるんだけど…\n\n成功\n+15 潜在力ポイント\n生命の感覚\n\nミッション・ポッシブル？\n\n成功\n+8 体力\n+12 保護\n愛の行進",
+      "rawText": "ホーム\nデータベース\nアルカナ\n気怠い午後の隙間\n\nカルメン\n\n気怠い午後の隙間\n\nメインステータス\n\n体力\n\nアシスト\n\n強靭度\n救援者\n\n騎士の内助\n\n絆ポイントが50以上の場合 追加体力ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n体力\n+2\n潜在力ポイント増加\n+7\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+5.1%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+27.52%\nイベント\n\n誰のためにスープを作るのか\n\nうん、じゃあ一杯お願いしてもいいかな？\n\n成功\n-5 スタミナ\n+20 潜在力ポイント\n\nいや、民間人用で十分だよ…\n\n成功\n共感能力\n\n世渡り上手\n\n分かった。できるだけ変に書いてみるよ。\n\n成功\n+5 体力\n生命の腕前\n失敗\n+20 体力\n-5 スタミナ\n生命の腕前\n\nもっと良いアイデアがあるんだけど…\n\n成功\n+15 潜在力ポイント\n生命の感覚\n\nミッション・ポッシブル？\n\n成功\n+8 体力\n+12 保護\n愛の行進"
+    },
+    {
+      "slug": "customized-training-to-cover-weaknesses",
+      "name": "弱点補完カスタム特訓",
+      "characterName": "ティリア",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7102501.webp",
+      "illustrationId": "7102501",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "攻撃力",
+              "icon": "wiki/images/general/combat_stats/stat.atk.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "隠した黒い翼",
+        "effect": "絆ポイントが30以上の場合 トレーニングの効果上昇 +8.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+11\nトレーニング効果\n追加力ステータス獲得\n+2\nトレーニングの効果上昇\n+15.44%\nコンディション効果上昇\n+9.5%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n伝説の鳥を探して\n\n成功\n+10 力\n+5 体力\n+1 コンディション\n\nお客様は神様！\n\nうん、今日は早く帰ろう。\n\n成功\n+15 スタミナ\n\nそれでも閉店時間は守らないと。\n\n成功\n+10 力\n+8 体力\n-5 スタミナ\n責任感\n\n相手役をお願い\n\n成功\n+12 力\n+8 体力\n+10 スタミナ\n鋭い攻勢",
+      "rawText": "ホーム\nデータベース\nアルカナ\n弱点補完カスタム特訓\n\nティリア\n\n弱点補完カスタム特訓\n\nメインステータス\n\n力\n\nアシスト\n\n攻撃力\n共用\n\n隠した黒い翼\n\n絆ポイントが30以上の場合 トレーニングの効果上昇 +8.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+11\nトレーニング効果\n追加力ステータス獲得\n+2\nトレーニングの効果上昇\n+15.44%\nコンディション効果上昇\n+9.5%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n伝説の鳥を探して\n\n成功\n+10 力\n+5 体力\n+1 コンディション\n\nお客様は神様！\n\nうん、今日は早く帰ろう。\n\n成功\n+15 スタミナ\n\nそれでも閉店時間は守らないと。\n\n成功\n+10 力\n+8 体力\n-5 スタミナ\n責任感\n\n相手役をお願い\n\n成功\n+12 力\n+8 体力\n+10 スタミナ\n鋭い攻勢"
+    },
+    {
+      "slug": "todays-step-forward",
+      "name": "今日の一歩",
+      "characterName": "フェイ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7102901.webp",
+      "illustrationId": "7102901",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "会心率",
+              "icon": "wiki/images/general/combat_stats/stat.rate_critical.webp"
+            },
+            {
+              "label": "救援者",
+              "icon": "wiki/images/arcanas/icons/tag.savior.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "天文秘級",
+        "effect": "絆ポイントが50以上の場合 追加体力ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+15.44%\nトレーニング出現確率上昇\n+4.5%\nコンディション効果上昇\n+7.6%\n追加潜在力ポイントの獲得\n+1\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+105\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n命の恩人\n\n私が地面を耕すよ。\n\n成功\n+8 力\n+12 体力\n-5 スタミナ\n\n私は掘った土を整理するよ。\n\n成功\n+1 コンディション\n-5 スタミナ\n\n言葉を超える経験\n\n二人の話に耳を傾ける。\n\n成功\n+10 力\n+12 体力\n\nお茶を淹れる。\n\n成功\n+12 体力\n破壊の感覚\n\n曲芸師ではない\n\n…横断幕、再挑戦してみよう。\n\n成功\n+10 力\n+10 体力\n-5 スタミナ\n孤高の求道者\n失敗\n+20 体力\n-5 スタミナ\n孤高の求道者\n\n…少し休むか？\n\n成功\n+5 体力\n孤高の求道者",
+      "rawText": "ホーム\nデータベース\nアルカナ\n今日の一歩\n\nフェイ\n\n今日の一歩\n\nメインステータス\n\n体力\n\nアシスト\n\n会心率\n救援者\n\n天文秘級\n\n絆ポイントが50以上の場合 追加体力ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+15.44%\nトレーニング出現確率上昇\n+4.5%\nコンディション効果上昇\n+7.6%\n追加潜在力ポイントの獲得\n+1\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+105\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n命の恩人\n\n私が地面を耕すよ。\n\n成功\n+8 力\n+12 体力\n-5 スタミナ\n\n私は掘った土を整理するよ。\n\n成功\n+1 コンディション\n-5 スタミナ\n\n言葉を超える経験\n\n二人の話に耳を傾ける。\n\n成功\n+10 力\n+12 体力\n\nお茶を淹れる。\n\n成功\n+12 体力\n破壊の感覚\n\n曲芸師ではない\n\n…横断幕、再挑戦してみよう。\n\n成功\n+10 力\n+10 体力\n-5 スタミナ\n孤高の求道者\n失敗\n+20 体力\n-5 スタミナ\n孤高の求道者\n\n…少し休むか？\n\n成功\n+5 体力\n孤高の求道者"
+    },
+    {
+      "slug": "a-white-moon-shines-with-the-suns-warmth",
+      "name": "白い月のぬくもりは陽光のように",
+      "characterName": "リン",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7101602.webp",
+      "illustrationId": "7101602",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "速度",
+              "icon": "wiki/images/general/combat_stats/stat.turn_speed.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "ケアサービス",
+        "effect": "絆ポイントが50以上の場合 追加体力ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+11\nトレーニング効果\n追加力ステータス獲得\n+1\nトレーニングの効果上昇\n+15.44%\nコンディション効果上昇\n+5.9%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+95\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n恥ずかしくありません！\n\n成功\n+2 コンディション\n\n万物の価値\n\n私が確認してみるよ。\n\n成功\n+5 力\n+5 体力\n+10 スタミナ\n\n…変なものが 入ってるんじゃない？\n\n成功\n+15 力\n+15 体力\n\n風月堂の修練\n\nありがたく受け取る。\n\n成功\n+12 力\n+8 忍耐\n攻撃の才能\n速度の聖痕\n\n…丁重に断る。\n\n成功\n+12 体力\n+8 忍耐\n生命の才能\n速度の聖痕",
+      "rawText": "ホーム\nデータベース\nアルカナ\n白い月のぬくもりは陽光のように\n\nリン\n\n白い月のぬくもりは陽光のように\n\nメインステータス\n\n忍耐\n\nアシスト\n\n速度\n共用\n\nケアサービス\n\n絆ポイントが50以上の場合 追加体力ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+11\nトレーニング効果\n追加力ステータス獲得\n+1\nトレーニングの効果上昇\n+15.44%\nコンディション効果上昇\n+5.9%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+95\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n恥ずかしくありません！\n\n成功\n+2 コンディション\n\n万物の価値\n\n私が確認してみるよ。\n\n成功\n+5 力\n+5 体力\n+10 スタミナ\n\n…変なものが 入ってるんじゃない？\n\n成功\n+15 力\n+15 体力\n\n風月堂の修練\n\nありがたく受け取る。\n\n成功\n+12 力\n+8 忍耐\n攻撃の才能\n速度の聖痕\n\n…丁重に断る。\n\n成功\n+12 体力\n+8 忍耐\n生命の才能\n速度の聖痕"
+    },
+    {
+      "slug": "the-end-wears-the-face-of-a-girl",
+      "name": "終末は少女の顔をしている",
+      "characterName": "ロザリア",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7300301.webp",
+      "illustrationId": "7300301",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "攻撃力",
+              "icon": "wiki/images/general/combat_stats/stat.atk.webp"
+            },
+            {
+              "label": "レンジャー",
+              "icon": "wiki/images/characters/icon/class.ranger.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "魔王の恩恵",
+        "effect": "絆ポイントが30以上の場合 追加力ステータス獲得 +2"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+5.9%\n追加潜在力ポイントの獲得\n+3\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+105\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n偏食の魔王様\n\n成功\n+15 力\n+15 集中\n洞察の才能\n\n運命の相手…？\n\n成功\n+15 力\n+15 集中\n+10 スタミナ\n+30 潜在力ポイント\n\n僕バトル！\n\n成功\n+20 力\n+10 忍耐\n+15 集中\n血の響き",
+      "rawText": "ホーム\nデータベース\nアルカナ\n終末は少女の顔をしている\n\nロザリア\n\n終末は少女の顔をしている\n\nメインステータス\n\n力\n\nアシスト\n\n攻撃力\nレンジャー\n\n魔王の恩恵\n\n絆ポイントが30以上の場合 追加力ステータス獲得 +2\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+5.9%\n追加潜在力ポイントの獲得\n+3\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+105\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n偏食の魔王様\n\n成功\n+15 力\n+15 集中\n洞察の才能\n\n運命の相手…？\n\n成功\n+15 力\n+15 集中\n+10 スタミナ\n+30 潜在力ポイント\n\n僕バトル！\n\n成功\n+20 力\n+10 忍耐\n+15 集中\n血の響き"
+    },
+    {
+      "slug": "experienced-mercenary",
+      "name": "歴戦の傭兵",
+      "characterName": "ヤナギ・ミナ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7300201.webp",
+      "illustrationId": "7300201",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "救援者",
+              "icon": "wiki/images/arcanas/icons/tag.savior.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "猪突猛進",
+        "effect": "絆ポイントが50以上の場合 追加体力ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n体力\n+5\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\n体力トレーニング経験値の獲得量アップ\n+3.5%\nコンディション効果上昇\n+3.94%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n世の中そう甘くない\n\n他の仕事をしてみよう！\n\n成功\n+15 スタミナ\n\n美味しいものを食べて忘れよう！\n\n成功\n+1 コンディション\n+10 潜在力ポイント\n\n深刻なワーカホリック\n\nその頃の生活パターンを再現してみるのはどう？\n\n成功\n+40 潜在力ポイント\n\nもっとしっかり休もう。\n\n成功\n破壊の腕前\n\nフェンリル小隊\n\n成功\n+15 体力\n+12 忍耐\nカタリスト",
+      "rawText": "ホーム\nデータベース\nアルカナ\n歴戦の傭兵\n\nヤナギ・ミナ\n\n歴戦の傭兵\n\nメインステータス\n\n体力\n\nアシスト\n\n特殊効果\n救援者\n\n猪突猛進\n\n絆ポイントが50以上の場合 追加体力ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n体力\n+5\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\n体力トレーニング経験値の獲得量アップ\n+3.5%\nコンディション効果上昇\n+3.94%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n世の中そう甘くない\n\n他の仕事をしてみよう！\n\n成功\n+15 スタミナ\n\n美味しいものを食べて忘れよう！\n\n成功\n+1 コンディション\n+10 潜在力ポイント\n\n深刻なワーカホリック\n\nその頃の生活パターンを再現してみるのはどう？\n\n成功\n+40 潜在力ポイント\n\nもっとしっかり休もう。\n\n成功\n破壊の腕前\n\nフェンリル小隊\n\n成功\n+15 体力\n+12 忍耐\nカタリスト"
+    },
+    {
+      "slug": "nostalgia-strikes-back",
+      "name": "ノスタルジアの逆襲",
+      "characterName": "ヒルデ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7300101.webp",
+      "illustrationId": "7300101",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "ディフェンダー",
+              "icon": "wiki/images/characters/icon/class.defender.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "指揮官の姿",
+        "effect": "絆ポイントが60以上の場合 追加忍耐ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+8\n絆ポイント増加\n+3\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\nコンディション効果上昇\n+9.5%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n報告書は難しい\n\n成功\n+20 潜在力ポイント\n防御の感覚\n\n責任を持てない子ども心\n\nリンが用意した物を受ける。\n\n成功\n+1 コンディション\n+20 忍耐\n防御の腕前\n作戦方針\n失敗\n+25 体力\n-10 スタミナ\n\n床に転がっている人形を指す。\n\n成功\n+15 スタミナ\n+1 コンディション\n\nトレーニングは実戦のごとく\n\n病気のフリをする！\n\n成功\n-10 スタミナ\n+25 忍耐\n+20 潜在力ポイント\n沈黙の盾\n\n適当にごまかす！\n\n成功\n+5 力\n+10 体力\n沈黙の盾",
+      "rawText": "ホーム\nデータベース\nアルカナ\nノスタルジアの逆襲\n\nヒルデ\n\nノスタルジアの逆襲\n\nメインステータス\n\n忍耐\n\nアシスト\n\n特殊効果\nディフェンダー\n\n指揮官の姿\n\n絆ポイントが60以上の場合 追加忍耐ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+8\n絆ポイント増加\n+3\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\nコンディション効果上昇\n+9.5%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n報告書は難しい\n\n成功\n+20 潜在力ポイント\n防御の感覚\n\n責任を持てない子ども心\n\nリンが用意した物を受ける。\n\n成功\n+1 コンディション\n+20 忍耐\n防御の腕前\n作戦方針\n失敗\n+25 体力\n-10 スタミナ\n\n床に転がっている人形を指す。\n\n成功\n+15 スタミナ\n+1 コンディション\n\nトレーニングは実戦のごとく\n\n病気のフリをする！\n\n成功\n-10 スタミナ\n+25 忍耐\n+20 潜在力ポイント\n沈黙の盾\n\n適当にごまかす！\n\n成功\n+5 力\n+10 体力\n沈黙の盾"
+    },
+    {
+      "slug": "responsibility-atop-a-pile-of-paperwork",
+      "name": "書類の山に積もる責任感",
+      "characterName": "ロベルタ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7102601.webp",
+      "illustrationId": "7102601",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "救援者",
+              "icon": "wiki/images/arcanas/icons/tag.savior.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "ベテラン観測士",
+        "effect": "絆ポイントが40以上の場合 古のコイン獲得量上昇 +5.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n体力\n+6\nトレーニング効果\n追加体力ステータス獲得\n+2\nトレーニングの効果上昇\n+10.4%\nトレーニング出現確率上昇\n+4.5%\nコンディション効果上昇\n+5.1%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\nあの事件の後日談\n\n成功\n+10 体力\n+15 潜在力ポイント\n\n伝説の剣\n\n成功\n+20 体力\n+15 潜在力ポイント\n速度の感覚\n\n安全運転でお願いします!\n\n何があったのか、声をかけてみようか？\n\n成功\n+1 コンディション\n災害対応プロトコル\n\n忙しそうだし、邪魔しないでおこう…\n\n成功\n+15 スタミナ\n災害対応プロトコル",
+      "rawText": "ホーム\nデータベース\nアルカナ\n書類の山に積もる責任感\n\nロベルタ\n\n書類の山に積もる責任感\n\nメインステータス\n\n体力\n\nアシスト\n\n特殊効果\n救援者\n\nベテラン観測士\n\n絆ポイントが40以上の場合 古のコイン獲得量上昇 +5.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n体力\n+6\nトレーニング効果\n追加体力ステータス獲得\n+2\nトレーニングの効果上昇\n+10.4%\nトレーニング出現確率上昇\n+4.5%\nコンディション効果上昇\n+5.1%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\nあの事件の後日談\n\n成功\n+10 体力\n+15 潜在力ポイント\n\n伝説の剣\n\n成功\n+20 体力\n+15 潜在力ポイント\n速度の感覚\n\n安全運転でお願いします!\n\n何があったのか、声をかけてみようか？\n\n成功\n+1 コンディション\n災害対応プロトコル\n\n忙しそうだし、邪魔しないでおこう…\n\n成功\n+15 スタミナ\n災害対応プロトコル"
+    },
+    {
+      "slug": "the-indomitable-masterpiece",
+      "name": "不屈の傑作",
+      "characterName": "フレイ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7105701.webp",
+      "illustrationId": "7105701",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "会心ダメージ",
+              "icon": "wiki/images/general/combat_stats/stat.rate_critical_damage.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "効果的なマーケティング",
+        "effect": "絆ポイントが40以上の場合 感応トレーニングの発生率の上昇 +140"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+4\n絆ポイント増加\n+12\nトレーニング効果\n追加力ステータス獲得\n+1\nトレーニングの効果上昇\n+13.76%\n追加潜在力ポイントの獲得\n+3\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\nヘッドハンティング\n\n成功\n+10 力\n+10 スタミナ\n+15 潜在力ポイント\n攻撃の感覚\n\nフレスマ\n\n成功\n+15 力\n+10 体力\n+20 潜在力ポイント\n攻撃の腕前\n\nこのカードにすべてを賭けて！\n\nフレイの勝利を予想する。\n\n成功\n+10 力\n+15 スタミナ\n+20 潜在力ポイント\n頑丈な破壊\n失敗\n+10 力\n+15 スタミナ\n散財\n+30 潜在力ポイント\n頑丈な破壊\n\nルナの勝利を予想する。\n\n成功\n+10 体力\n+10 忍耐\n+10 潜在力ポイント\n頑丈な破壊",
+      "rawText": "ホーム\nデータベース\nアルカナ\n不屈の傑作\n\nフレイ\n\n不屈の傑作\n\nメインステータス\n\n力\n\nアシスト\n\n会心ダメージ\n共用\n\n効果的なマーケティング\n\n絆ポイントが40以上の場合 感応トレーニングの発生率の上昇 +140\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+4\n絆ポイント増加\n+12\nトレーニング効果\n追加力ステータス獲得\n+1\nトレーニングの効果上昇\n+13.76%\n追加潜在力ポイントの獲得\n+3\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\nヘッドハンティング\n\n成功\n+10 力\n+10 スタミナ\n+15 潜在力ポイント\n攻撃の感覚\n\nフレスマ\n\n成功\n+15 力\n+10 体力\n+20 潜在力ポイント\n攻撃の腕前\n\nこのカードにすべてを賭けて！\n\nフレイの勝利を予想する。\n\n成功\n+10 力\n+15 スタミナ\n+20 潜在力ポイント\n頑丈な破壊\n失敗\n+10 力\n+15 スタミナ\n散財\n+30 潜在力ポイント\n頑丈な破壊\n\nルナの勝利を予想する。\n\n成功\n+10 体力\n+10 忍耐\n+10 潜在力ポイント\n頑丈な破壊"
+    },
+    {
+      "slug": "a-clumsy-way-to-relieve-desire",
+      "name": "不器用な欲望の満たし方",
+      "characterName": "シャルル",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7103201.webp",
+      "illustrationId": "7103201",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "アサシン",
+              "icon": "wiki/images/characters/icon/class.assassin.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "ムチよりにんじん",
+        "effect": "絆ポイントが50以上の場合 追加力ステータス獲得 +2"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+7\n絆ポイント増加\n+11\nトレーニング効果\n追加体力ステータス獲得\n+2\nトレーニングの効果上昇\n+12.08%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+260\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n油断禁物\n\n逃げるシャルルを呼ぶ。\n\n成功\n+10 力\n+1 コンディション\n\nシャルルが戻ってくるのを待つ。\n\n成功\n+30 潜在力ポイント\n速度の腕前\n\nモナスティルの剣\n\n成功\n+10 力\n+10 体力\n\n騎士の如く舞い、兎の如く\n\n成功\n+20 力\n+20 体力\nダブルタップ",
+      "rawText": "ホーム\nデータベース\nアルカナ\n不器用な欲望の満たし方\n\nシャルル\n\n不器用な欲望の満たし方\n\nメインステータス\n\n力\n\nアシスト\n\n特殊効果\nアサシン\n\nムチよりにんじん\n\n絆ポイントが50以上の場合 追加力ステータス獲得 +2\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+7\n絆ポイント増加\n+11\nトレーニング効果\n追加体力ステータス獲得\n+2\nトレーニングの効果上昇\n+12.08%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+260\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n油断禁物\n\n逃げるシャルルを呼ぶ。\n\n成功\n+10 力\n+1 コンディション\n\nシャルルが戻ってくるのを待つ。\n\n成功\n+30 潜在力ポイント\n速度の腕前\n\nモナスティルの剣\n\n成功\n+10 力\n+10 体力\n\n騎士の如く舞い、兎の如く\n\n成功\n+20 力\n+20 体力\nダブルタップ"
+    },
+    {
+      "slug": "a-quiet-moment-of-rest",
+      "name": "静かな休息時間",
+      "characterName": "エミリー",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7100901.webp",
+      "illustrationId": "7100901",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "ディフェンダー",
+              "icon": "wiki/images/characters/icon/class.defender.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "戦闘態勢",
+        "effect": "絆ポイントが70以上の場合 トレーニングの効果上昇 +7.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+13\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\nトレーニング失敗率低下\n+3%\nコンディション効果上昇\n+3%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n非常事態！？\n\n成功\n+10 体力\n+5 潜在力ポイント\n保護の感覚\n\n誰にも知られずに…？\n\n成功\n+15 体力\n+10 潜在力ポイント\n生命の感覚\n\n暗号文\n\n成功\n+15 体力\n+15 潜在力ポイント\n慎重な戦術",
+      "rawText": "ホーム\nデータベース\nアルカナ\n静かな休息時間\n\nエミリー\n\n静かな休息時間\n\nメインステータス\n\n体力\n\nアシスト\n\n特殊効果\nディフェンダー\n\n戦闘態勢\n\n絆ポイントが70以上の場合 トレーニングの効果上昇 +7.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+13\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\nトレーニング失敗率低下\n+3%\nコンディション効果上昇\n+3%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n非常事態！？\n\n成功\n+10 体力\n+5 潜在力ポイント\n保護の感覚\n\n誰にも知られずに…？\n\n成功\n+15 体力\n+10 潜在力ポイント\n生命の感覚\n\n暗号文\n\n成功\n+15 体力\n+15 潜在力ポイント\n慎重な戦術"
+    },
+    {
+      "slug": "deep-mourning",
+      "name": "深い哀悼",
+      "characterName": "ベル・リース",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7100801.webp",
+      "illustrationId": "7100801",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "会心率",
+              "icon": "wiki/images/general/combat_stats/stat.rate_critical.webp"
+            },
+            {
+              "label": "レンジャー",
+              "icon": "wiki/images/characters/icon/class.ranger.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "持ちつ持たれつ",
+        "effect": "絆ポイントが40以上の場合 感応トレーニングの発生率の上昇 +150"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+8\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+3%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+19.48%\n追加集中ステータス獲得\n+3\nイベント\n\nR.I.P.\n\n成功\n+5 集中\n+10 スタミナ\n\n縞模様\n\nベルの石の方が綺麗だと思うけど？\n\n成功\n+5 集中\n+10 潜在力ポイント\n集中の腕前\n\n探しに行こう！\n\n成功\n+5 力\n+10 潜在力ポイント\n集中の腕前\n\nプライドの高い二人の戦い\n\n危険な呪術は使わないんだよな？\n\n成功\n+10 力\n+15 集中\n+15 潜在力ポイント\n蚕食の影\n失敗\n+8 力\n+12 集中\n+10 潜在力ポイント\n蚕食の影\n\nベル・リース。薬を渡して、走れ。\n\n成功\n+20 スタミナ",
+      "rawText": "ホーム\nデータベース\nアルカナ\n深い哀悼\n\nベル・リース\n\n深い哀悼\n\nメインステータス\n\n集中\n\nアシスト\n\n会心率\nレンジャー\n\n持ちつ持たれつ\n\n絆ポイントが40以上の場合 感応トレーニングの発生率の上昇 +150\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+8\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+3%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+19.48%\n追加集中ステータス獲得\n+3\nイベント\n\nR.I.P.\n\n成功\n+5 集中\n+10 スタミナ\n\n縞模様\n\nベルの石の方が綺麗だと思うけど？\n\n成功\n+5 集中\n+10 潜在力ポイント\n集中の腕前\n\n探しに行こう！\n\n成功\n+5 力\n+10 潜在力ポイント\n集中の腕前\n\nプライドの高い二人の戦い\n\n危険な呪術は使わないんだよな？\n\n成功\n+10 力\n+15 集中\n+15 潜在力ポイント\n蚕食の影\n失敗\n+8 力\n+12 集中\n+10 潜在力ポイント\n蚕食の影\n\nベル・リース。薬を渡して、走れ。\n\n成功\n+20 スタミナ"
+    },
+    {
+      "slug": "young-lady-of-stranis",
+      "name": "ストラニス家の令嬢",
+      "characterName": "アセラ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7105401.webp",
+      "illustrationId": "7105401",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "HP",
+              "icon": "wiki/images/general/combat_stats/stat.hp.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "もう一歩",
+        "effect": "絆ポイントが30以上の場合 追加体力ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+8\n絆ポイント増加\n+12\nトレーニング効果\nトレーニングの効果上昇\n+15.44%\nトレーニング出現確率上昇\n+7%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+125\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n演劇鑑賞\n\n成功\n+10 体力\n+10 スタミナ\n速度の才能\n\nお料理教室\n\n成功\n+12 体力\n+8 忍耐\n+8 保護\n+1 コンディション\n栄養食\n\n業界の有名人\n\n成功\n+15 体力\n+10 忍耐\n生命の聖痕",
+      "rawText": "ホーム\nデータベース\nアルカナ\nストラニス家の令嬢\n\nアセラ\n\nストラニス家の令嬢\n\nメインステータス\n\n体力\n\nアシスト\n\nHP\n共用\n\nもう一歩\n\n絆ポイントが30以上の場合 追加体力ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+8\n絆ポイント増加\n+12\nトレーニング効果\nトレーニングの効果上昇\n+15.44%\nトレーニング出現確率上昇\n+7%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+125\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n演劇鑑賞\n\n成功\n+10 体力\n+10 スタミナ\n速度の才能\n\nお料理教室\n\n成功\n+12 体力\n+8 忍耐\n+8 保護\n+1 コンディション\n栄養食\n\n業界の有名人\n\n成功\n+15 体力\n+10 忍耐\n生命の聖痕"
+    },
+    {
+      "slug": "the-imaginary-pioneer",
+      "name": "虚数の開拓者",
+      "characterName": "オメガ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7103101.webp",
+      "illustrationId": "7103101",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "チートコード",
+        "effect": "絆ポイントが50以上の場合 古のコイン獲得量上昇 +3.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+8\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+7.6%\n超感応トレーニング効果\n感応トレーニングの効果上昇\n+6%\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n星灯りの名にかけて\n\n成功\n+10 スタミナ\n+1 コンディション\n+5 力\n攻撃の感覚\n\nリフォーム\n\n成功\n+15 力\n+8 集中\n\nオメガの手\n\n見守る。\n\n成功\n+12 力\n+8 集中\n+10 スタミナ\n+20 潜在力ポイント\nスタックトリガー\n\nオメガを止める。\n\n成功\n+12 力\n+8 集中\n+1 コンディション\n+20 潜在力ポイント\nスタックトリガー",
+      "rawText": "ホーム\nデータベース\nアルカナ\n虚数の開拓者\n\nオメガ\n\n虚数の開拓者\n\nメインステータス\n\n力\n\nアシスト\n\n特殊効果\n共用\n\nチートコード\n\n絆ポイントが50以上の場合 古のコイン獲得量上昇 +3.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+8\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+7.6%\n超感応トレーニング効果\n感応トレーニングの効果上昇\n+6%\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n星灯りの名にかけて\n\n成功\n+10 スタミナ\n+1 コンディション\n+5 力\n攻撃の感覚\n\nリフォーム\n\n成功\n+15 力\n+8 集中\n\nオメガの手\n\n見守る。\n\n成功\n+12 力\n+8 集中\n+10 スタミナ\n+20 潜在力ポイント\nスタックトリガー\n\nオメガを止める。\n\n成功\n+12 力\n+8 集中\n+1 コンディション\n+20 潜在力ポイント\nスタックトリガー"
+    },
+    {
+      "slug": "the-great-and-amazing-bunny-girl",
+      "name": "大胆かつ凄いバニーガール",
+      "characterName": "スカーレット",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7104301.webp",
+      "illustrationId": "7104301",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "効果命中",
+              "icon": "wiki/images/general/combat_stats/stat.rate_effect_hit.webp"
+            },
+            {
+              "label": "救援者",
+              "icon": "wiki/images/arcanas/icons/tag.savior.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "高きプライド",
+        "effect": "絆ポイントが50以上の場合 コンディション効果上昇 +5.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+8\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+13.76%\n力トレーニング経験値の獲得量アップ\n+3%\nコンディション効果上昇\n+9.5%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+260\n超感応トレーニングの効果上昇\n+16.8%\nイベント\n\n翼を大きく広げて\n\n応援してるよ、スカーレット！楽しみにしているぞ！ \n\n成功\n+10 力\n\n危ないぞ、スカーレット…！\n\n成功\n+15 スタミナ\n筋肉負傷\n\n食べれる側の人間\n\nスカーレットを応援する。\n\n成功\n+15 力\n攻撃の腕前\n\nシャルルを応援する。 \n\n成功\n+20 スタミナ\n過食\n\n人気者になれる服\n\n一緒に説得しに行ってみる？\n\n成功\n+20 力\n-10 スタミナ\n準備は良いぞ！\n失敗\n+10 力\n-10 スタミナ\n準備は良いぞ！\n\n一人の方が楽なこともあるんじゃない？\n\n成功\n+10 スタミナ\n攻撃の才能",
+      "rawText": "ホーム\nデータベース\nアルカナ\n大胆かつ凄いバニーガール\n\nスカーレット\n\n大胆かつ凄いバニーガール\n\nメインステータス\n\n力\n\nアシスト\n\n効果命中\n救援者\n\n高きプライド\n\n絆ポイントが50以上の場合 コンディション効果上昇 +5.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+8\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+13.76%\n力トレーニング経験値の獲得量アップ\n+3%\nコンディション効果上昇\n+9.5%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+260\n超感応トレーニングの効果上昇\n+16.8%\nイベント\n\n翼を大きく広げて\n\n応援してるよ、スカーレット！楽しみにしているぞ！ \n\n成功\n+10 力\n\n危ないぞ、スカーレット…！\n\n成功\n+15 スタミナ\n筋肉負傷\n\n食べれる側の人間\n\nスカーレットを応援する。\n\n成功\n+15 力\n攻撃の腕前\n\nシャルルを応援する。 \n\n成功\n+20 スタミナ\n過食\n\n人気者になれる服\n\n一緒に説得しに行ってみる？\n\n成功\n+20 力\n-10 スタミナ\n準備は良いぞ！\n失敗\n+10 力\n-10 スタミナ\n準備は良いぞ！\n\n一人の方が楽なこともあるんじゃない？\n\n成功\n+10 スタミナ\n攻撃の才能"
+    },
+    {
+      "slug": "the-perfect-bunny-girl",
+      "name": "完璧なバニーガール",
+      "characterName": "クレア",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7104401.webp",
+      "illustrationId": "7104401",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "HP",
+              "icon": "wiki/images/general/combat_stats/stat.hp.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "完璧な仕事ぶり",
+        "effect": "絆ポイントが40以上の場合 古のコイン獲得量上昇 +5.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n体力\n+6\n絆ポイント増加\n+8\nトレーニング効果\nトレーニングの効果上昇\n+17.12%\nコンディション効果上昇\n+5.1%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+225\n超感応トレーニングの効果上昇\n+27.52%\nイベント\n\nサプライズパーティー\n\n成功\n+15 体力\n生命の腕前\n\nバイクホッグはですね…\n\n成功\n+10 スタミナ\n+10 潜在力ポイント\n\nウサギの隣にウサギの隣にウサギ\n\n正直に打ち明ける。\n\n成功\n+5 力\n+10 体力\n-10 スタミナ\n+15 潜在力ポイント\n鋭い成長\n失敗\n+5 力\n+5 体力\n-10 スタミナ\n+10 潜在力ポイント\n鋭い成長\n\n適当にごまかす。\n\n成功\n+10 スタミナ\n+10 潜在力ポイント\n生命の才能",
+      "rawText": "ホーム\nデータベース\nアルカナ\n完璧なバニーガール\n\nクレア\n\n完璧なバニーガール\n\nメインステータス\n\n体力\n\nアシスト\n\nHP\n共用\n\n完璧な仕事ぶり\n\n絆ポイントが40以上の場合 古のコイン獲得量上昇 +5.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n体力\n+6\n絆ポイント増加\n+8\nトレーニング効果\nトレーニングの効果上昇\n+17.12%\nコンディション効果上昇\n+5.1%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+225\n超感応トレーニングの効果上昇\n+27.52%\nイベント\n\nサプライズパーティー\n\n成功\n+15 体力\n生命の腕前\n\nバイクホッグはですね…\n\n成功\n+10 スタミナ\n+10 潜在力ポイント\n\nウサギの隣にウサギの隣にウサギ\n\n正直に打ち明ける。\n\n成功\n+5 力\n+10 体力\n-10 スタミナ\n+15 潜在力ポイント\n鋭い成長\n失敗\n+5 力\n+5 体力\n-10 スタミナ\n+10 潜在力ポイント\n鋭い成長\n\n適当にごまかす。\n\n成功\n+10 スタミナ\n+10 潜在力ポイント\n生命の才能"
+    },
+    {
+      "slug": "a-knights-oath",
+      "name": "ある騎士の誓い",
+      "characterName": "シャルル",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7101001.webp",
+      "illustrationId": "7101001",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "速度",
+              "icon": "wiki/images/general/combat_stats/stat.turn_speed.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "騎士団長の人望",
+        "effect": "絆ポイントが30以上の場合 感応トレーニングの発生率の上昇 +180"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n体力\n+7\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+17.12%\nトレーニング出現確率上昇\n+3.5%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+24.84%\n依頼効果\n古のコイン獲得量上昇\n+3.5%\nイベント\n\n油断禁物\n\n逃げるシャルルを呼ぶ。\n\n成功\n+5 体力\n+15 スタミナ\n\nシャルルが戻ってくるのを待つ。\n\n成功\n+15 体力\n\nモナスティルの剣\n\n成功\n+12 体力\n+8 忍耐\n\n勇敢に挑戦せよ\n\n成功\n+12 体力\n+8 忍耐\n速度の聖痕",
+      "rawText": "ホーム\nデータベース\nアルカナ\nある騎士の誓い\n\nシャルル\n\nある騎士の誓い\n\nメインステータス\n\n体力\n\nアシスト\n\n速度\n共用\n\n騎士団長の人望\n\n絆ポイントが30以上の場合 感応トレーニングの発生率の上昇 +180\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n体力\n+7\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+17.12%\nトレーニング出現確率上昇\n+3.5%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+24.84%\n依頼効果\n古のコイン獲得量上昇\n+3.5%\nイベント\n\n油断禁物\n\n逃げるシャルルを呼ぶ。\n\n成功\n+5 体力\n+15 スタミナ\n\nシャルルが戻ってくるのを待つ。\n\n成功\n+15 体力\n\nモナスティルの剣\n\n成功\n+12 体力\n+8 忍耐\n\n勇敢に挑戦せよ\n\n成功\n+12 体力\n+8 忍耐\n速度の聖痕"
+    },
+    {
+      "slug": "a-satisfying-meal",
+      "name": "満足のいく食事",
+      "characterName": "ベスタ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7150101.webp",
+      "illustrationId": "7150101",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "保護",
+              "icon": "wiki/images/general/journey_stats/stat.protection.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "強靭度",
+              "icon": "wiki/images/arcanas/icons/tag.toughness.webp"
+            },
+            {
+              "label": "ディフェンダー",
+              "icon": "wiki/images/characters/icon/class.defender.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "模範隊員",
+        "effect": "絆ポイントが60以上の場合 古のコイン獲得量上昇 +5.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+12\nトレーニング効果\n追加保護ステータス獲得\n+1\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+5.9%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+105\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n異なる角度\n\n成功\n+5 集中\n+10 スタミナ\n+10 潜在力ポイント\n保護の感覚\n\n誰かにとっては貴重なもの\n\n本を開いてみる。       \n\n成功\n+10 スタミナ\n\nベスタに譲る。\n\n成功\n+8 体力\n+8 集中\n+12 保護\n-10 スタミナ\n失敗\n+15 保護\n-10 スタミナ\n\nベスタの戦術説明\n\nベスタを止める。\n\n成功\n+8 体力\n+8 集中\n+15 保護\n強靭な意志\n失敗\n+8 体力\n+8 集中\n+15 保護\n-20 スタミナ\n強靭な意志\n\nただ見守る。  \n\n成功\n+15 保護\n強靭な意志",
+      "rawText": "ホーム\nデータベース\nアルカナ\n満足のいく食事\n\nベスタ\n\n満足のいく食事\n\nメインステータス\n\n保護\n\nアシスト\n\n強靭度\nディフェンダー\n\n模範隊員\n\n絆ポイントが60以上の場合 古のコイン獲得量上昇 +5.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+12\nトレーニング効果\n追加保護ステータス獲得\n+1\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+5.9%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+105\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n異なる角度\n\n成功\n+5 集中\n+10 スタミナ\n+10 潜在力ポイント\n保護の感覚\n\n誰かにとっては貴重なもの\n\n本を開いてみる。       \n\n成功\n+10 スタミナ\n\nベスタに譲る。\n\n成功\n+8 体力\n+8 集中\n+12 保護\n-10 スタミナ\n失敗\n+15 保護\n-10 スタミナ\n\nベスタの戦術説明\n\nベスタを止める。\n\n成功\n+8 体力\n+8 集中\n+15 保護\n強靭な意志\n失敗\n+8 体力\n+8 集中\n+15 保護\n-20 スタミナ\n強靭な意志\n\nただ見守る。  \n\n成功\n+15 保護\n強靭な意志"
+    },
+    {
+      "slug": "a-stroll-with-friends",
+      "name": "友達との散歩",
+      "characterName": "ダーナ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7102101.webp",
+      "illustrationId": "7102101",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "会心率",
+              "icon": "wiki/images/general/combat_stats/stat.rate_critical.webp"
+            },
+            {
+              "label": "キャスター",
+              "icon": "wiki/images/characters/icon/class.caster.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "ロロカ",
+        "effect": "絆ポイントが50以上の場合 感応トレーニングの発生率の上昇 +150"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+9\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+15.44%\n力トレーニング経験値の獲得量アップ\n+11%\n超感応トレーニング効果\n感応トレーニングの効果上昇\n+2%\n超感応トレーニングの効果上昇\n+14.12%\nイベント\n\nドルイドの資産運用\n\n成功\n+10 力\n\nダーナの農場\n\n成功\n+12 力\n+8 体力\n\nタパパ\n\n成功\n+12 力\n+8 体力\n緊急呪文の詠唱法",
+      "rawText": "ホーム\nデータベース\nアルカナ\n友達との散歩\n\nダーナ\n\n友達との散歩\n\nメインステータス\n\n力\n\nアシスト\n\n会心率\nキャスター\n\nロロカ\n\n絆ポイントが50以上の場合 感応トレーニングの発生率の上昇 +150\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+9\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+15.44%\n力トレーニング経験値の獲得量アップ\n+11%\n超感応トレーニング効果\n感応トレーニングの効果上昇\n+2%\n超感応トレーニングの効果上昇\n+14.12%\nイベント\n\nドルイドの資産運用\n\n成功\n+10 力\n\nダーナの農場\n\n成功\n+12 力\n+8 体力\n\nタパパ\n\n成功\n+12 力\n+8 体力\n緊急呪文の詠唱法"
+    },
+    {
+      "slug": "an-unseen-place",
+      "name": "見えない場所",
+      "characterName": "セレス",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7103301.webp",
+      "illustrationId": "7103301",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "毒には毒を",
+        "effect": "絆ポイントが50以上の場合 追加集中ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n古のコイン増加\n+17\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\n追加潜在力ポイントの獲得\n+3\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n力を得たいか\n\n成功\n+15 集中\n\n基準の違い\n\n成功\n+8 体力\n+15 集中\n集中の感覚\n\n深刻なトレーニング中毒です\n\n成功\n+20 集中\n応急処置",
+      "rawText": "ホーム\nデータベース\nアルカナ\n見えない場所\n\nセレス\n\n見えない場所\n\nメインステータス\n\n集中\n\nアシスト\n\n特殊効果\n共用\n\n毒には毒を\n\n絆ポイントが50以上の場合 追加集中ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n古のコイン増加\n+17\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\n追加潜在力ポイントの獲得\n+3\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n力を得たいか\n\n成功\n+15 集中\n\n基準の違い\n\n成功\n+8 体力\n+15 集中\n集中の感覚\n\n深刻なトレーニング中毒です\n\n成功\n+20 集中\n応急処置"
+    },
+    {
+      "slug": "as-cute-as-kyra",
+      "name": "キラくらい可愛い！",
+      "characterName": "キラ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7105301.webp",
+      "illustrationId": "7105301",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "速度",
+              "icon": "wiki/images/general/combat_stats/stat.turn_speed.webp"
+            },
+            {
+              "label": "アサシン",
+              "icon": "wiki/images/characters/icon/class.assassin.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "一人の時間",
+        "effect": "絆ポイントが70以上の場合 コンディション効果上昇 +3.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+8\n絆ポイント増加\n+3\nトレーニング効果\nトレーニングの効果上昇\n+13.76%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+375\n超感応トレーニングの効果上昇\n+24.84%\n依頼効果\n古のコイン獲得量上昇\n+3.5%\nイベント\n\nキラクラ\n\n成功\n+10 力\n+5 体力\n+5 集中\n-10 スタミナ\n\n竜族は丈夫だからな！\n\n成功\n+10 力\n-10 スタミナ\n+20 潜在力ポイント\n\n入るのは勝手だけど…\n\n力ずくで開ける。\n\n成功\n+12 力\n+8 集中\n弾力・加速\n失敗\n+10 力\n-10 スタミナ\n弾力・加速\n\n運命を受け入れる。\n\n成功\n+5 力\n弾力・加速",
+      "rawText": "ホーム\nデータベース\nアルカナ\nキラくらい可愛い！\n\nキラ\n\nキラくらい可愛い！\n\nメインステータス\n\n力\n\nアシスト\n\n速度\nアサシン\n\n一人の時間\n\n絆ポイントが70以上の場合 コンディション効果上昇 +3.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+8\n絆ポイント増加\n+3\nトレーニング効果\nトレーニングの効果上昇\n+13.76%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+375\n超感応トレーニングの効果上昇\n+24.84%\n依頼効果\n古のコイン獲得量上昇\n+3.5%\nイベント\n\nキラクラ\n\n成功\n+10 力\n+5 体力\n+5 集中\n-10 スタミナ\n\n竜族は丈夫だからな！\n\n成功\n+10 力\n-10 スタミナ\n+20 潜在力ポイント\n\n入るのは勝手だけど…\n\n力ずくで開ける。\n\n成功\n+12 力\n+8 集中\n弾力・加速\n失敗\n+10 力\n-10 スタミナ\n弾力・加速\n\n運命を受け入れる。\n\n成功\n+5 力\n弾力・加速"
+    },
+    {
+      "slug": "born-to-be-wild",
+      "name": "ボーン・トゥ・ビー・ワイルド",
+      "characterName": "ハーレー",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7104101.webp",
+      "illustrationId": "7104101",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "強靭度",
+              "icon": "wiki/images/arcanas/icons/tag.toughness.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "漢の魂",
+        "effect": "絆ポイントが40以上の場合 追加忍耐ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+7\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n感応トレーニングの効果上昇\n+5%\n超感応トレーニングの効果上昇\n+27.52%\nイベント\n\n漢の勝利！\n\n成功\n+5 忍耐\n+15 潜在力ポイント\n\n漢の度量？\n\n成功\n+10 忍耐\n+15 潜在力ポイント\n防御の腕前\n\n漢の見る目\n\n成功\n+10 忍耐\n+20 潜在力ポイント\n第2の心臓",
+      "rawText": "ホーム\nデータベース\nアルカナ\nボーン・トゥ・ビー・ワイルド\n\nハーレー\n\nボーン・トゥ・ビー・ワイルド\n\nメインステータス\n\n忍耐\n\nアシスト\n\n強靭度\n共用\n\n漢の魂\n\n絆ポイントが40以上の場合 追加忍耐ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+7\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n感応トレーニングの効果上昇\n+5%\n超感応トレーニングの効果上昇\n+27.52%\nイベント\n\n漢の勝利！\n\n成功\n+5 忍耐\n+15 潜在力ポイント\n\n漢の度量？\n\n成功\n+10 忍耐\n+15 潜在力ポイント\n防御の腕前\n\n漢の見る目\n\n成功\n+10 忍耐\n+20 潜在力ポイント\n第2の心臓"
+    },
+    {
+      "slug": "divine-judgement",
+      "name": "天の審判",
+      "characterName": "ミュリエル",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7102301.webp",
+      "illustrationId": "7102301",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "会心ダメージ",
+              "icon": "wiki/images/general/combat_stats/stat.rate_critical_damage.webp"
+            },
+            {
+              "label": "キャスター",
+              "icon": "wiki/images/characters/icon/class.caster.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "悪魔的才能",
+        "effect": "絆ポイントが40以上の場合 トレーニングの効果上昇 +9.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+3\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+18.8%\nトレーニング出現確率上昇\n+3%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+260\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\nツケを払うとき\n\n成功\n+10 力\n\n妨害工作\n\n成功\n+10 力\n+5 体力\n\n宗教勧誘\n\n成功\n+10 力\n+5 体力\n+5 忍耐\n標的整列の魔法陣",
+      "rawText": "ホーム\nデータベース\nアルカナ\n天の審判\n\nミュリエル\n\n天の審判\n\nメインステータス\n\n力\n\nアシスト\n\n会心ダメージ\nキャスター\n\n悪魔的才能\n\n絆ポイントが40以上の場合 トレーニングの効果上昇 +9.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+3\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+18.8%\nトレーニング出現確率上昇\n+3%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+260\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\nツケを払うとき\n\n成功\n+10 力\n\n妨害工作\n\n成功\n+10 力\n+5 体力\n\n宗教勧誘\n\n成功\n+10 力\n+5 体力\n+5 忍耐\n標的整列の魔法陣"
+    },
+    {
+      "slug": "divine-trial",
+      "name": "天の試練",
+      "characterName": "エリサ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7102401.webp",
+      "illustrationId": "7102401",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "防御力",
+              "icon": "wiki/images/general/combat_stats/stat.def.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "優柔不断",
+        "effect": "絆ポイントが60以上の場合 コンディション効果上昇 +3.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n忍耐\n+7\n潜在力ポイント増加\n+13\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\n追加潜在力ポイントの獲得\n+1\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n初恋の話\n\n子どもたちが好きそうな話をしてあげて。\n\n成功\n+15 忍耐\n\n心を強く持つんだ！\n\n成功\n+5 忍耐\n+25 スタミナ\nバーンアウト\n防御の感覚\n\n怪しい勧誘\n\n成功\n+5 体力\n+10 忍耐\n\nボルト・ハンター\n\n成功\n+5 力\n+5 体力\n+10 忍耐\n感覚的な守備",
+      "rawText": "ホーム\nデータベース\nアルカナ\n天の試練\n\nエリサ\n\n天の試練\n\nメインステータス\n\n忍耐\n\nアシスト\n\n防御力\n共用\n\n優柔不断\n\n絆ポイントが60以上の場合 コンディション効果上昇 +3.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n忍耐\n+7\n潜在力ポイント増加\n+13\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\n追加潜在力ポイントの獲得\n+1\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+275\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n初恋の話\n\n子どもたちが好きそうな話をしてあげて。\n\n成功\n+15 忍耐\n\n心を強く持つんだ！\n\n成功\n+5 忍耐\n+25 スタミナ\nバーンアウト\n防御の感覚\n\n怪しい勧誘\n\n成功\n+5 体力\n+10 忍耐\n\nボルト・ハンター\n\n成功\n+5 力\n+5 体力\n+10 忍耐\n感覚的な守備"
+    },
+    {
+      "slug": "dreams-under-the-stars",
+      "name": "星を見ながら夢を",
+      "characterName": "ナル",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7150801.webp",
+      "illustrationId": "7150801",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "会心率",
+              "icon": "wiki/images/general/combat_stats/stat.rate_critical.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "無我夢中",
+        "effect": "絆ポイントが60以上の場合 追加集中ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+12\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\nトレーニング出現確率上昇\n+6%\nコンディション効果上昇\n+5.9%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+260\n超感応トレーニングの効果上昇\n+16.8%\nイベント\n\nでも早かったですよね！\n\n成功\n+8 力\n+10 集中\n\nエリートフェイスです！\n\n成功\n+1 コンディション\n+10 力\n+10 集中\n\n手ほどきしましょう！\n\n成功\n+10 力\n-10 スタミナ\n+10 集中\n洞察の聖痕",
+      "rawText": "ホーム\nデータベース\nアルカナ\n星を見ながら夢を\n\nナル\n\n星を見ながら夢を\n\nメインステータス\n\n集中\n\nアシスト\n\n会心率\n共用\n\n無我夢中\n\n絆ポイントが60以上の場合 追加集中ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+12\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\nトレーニング出現確率上昇\n+6%\nコンディション効果上昇\n+5.9%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+260\n超感応トレーニングの効果上昇\n+16.8%\nイベント\n\nでも早かったですよね！\n\n成功\n+8 力\n+10 集中\n\nエリートフェイスです！\n\n成功\n+1 コンディション\n+10 力\n+10 集中\n\n手ほどきしましょう！\n\n成功\n+10 力\n-10 スタミナ\n+10 集中\n洞察の聖痕"
+    },
+    {
+      "slug": "forbidden-archive-vol-1",
+      "name": "禁断の記録物 Vol.1",
+      "characterName": "ベスタ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7040101.webp",
+      "illustrationId": "7040101",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "これから本気を出すから",
+        "effect": "絆ポイントが50以上の場合 トレーニングの効果上昇 +5.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n体力\n+9\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+13.76%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+70\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n闇から生まれ、光を誓った\n\nいや、夢にしては あまりにもリアルだった。\n\n成功\n+5 力\n+5 体力\n+5 忍耐\n\nそうだな。だからあんな夢を 見たのかもしれない。\n\n成功\n+5 スタミナ\n+5 潜在力ポイント\n\n禁断の記録物 Vol.1\n\n成功\n+5 体力\n+5 忍耐\n+5 潜在力ポイント\n\n声優ラジオがあれば嬉しいな、みたいな\n\n成功\n-5 スタミナ\n+1 コンディション\n+10 体力\nメタ認知",
+      "rawText": "ホーム\nデータベース\nアルカナ\n禁断の記録物 Vol.1\n\nベスタ\n\n禁断の記録物 Vol.1\n\nメインステータス\n\n体力\n\nこれから本気を出すから\n\n絆ポイントが50以上の場合 トレーニングの効果上昇 +5.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n体力\n+9\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+13.76%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+70\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n闇から生まれ、光を誓った\n\nいや、夢にしては あまりにもリアルだった。\n\n成功\n+5 力\n+5 体力\n+5 忍耐\n\nそうだな。だからあんな夢を 見たのかもしれない。\n\n成功\n+5 スタミナ\n+5 潜在力ポイント\n\n禁断の記録物 Vol.1\n\n成功\n+5 体力\n+5 忍耐\n+5 潜在力ポイント\n\n声優ラジオがあれば嬉しいな、みたいな\n\n成功\n-5 スタミナ\n+1 コンディション\n+10 体力\nメタ認知"
+    },
+    {
+      "slug": "made-by-petra",
+      "name": "メイド・バイ・ペトラ♡",
+      "characterName": "ペトラ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7104201.webp",
+      "illustrationId": "7104201",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "会心率",
+              "icon": "wiki/images/general/combat_stats/stat.rate_critical.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "実業家のコネ",
+        "effect": "絆ポイントが60以上の場合 感応トレーニングの発生率の上昇 +130"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n集中\n+5\n潜在力ポイント増加\n+9\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+7.6%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n雨の日\n\n成功\n+10 力\n+10 体力\n集中の感覚\n\n代表の苦悩\n\n露を宿したバラ色…？\n\n成功\n+5 力\n+5 体力\n+12 集中\n-10 スタミナ\n攻撃の感覚\n\n瑞々しいグレープフルーツのオレンジ色……？\n\n成功\n+10 スタミナ\n\nペトラのサイズ理論\n\n成功\n+8 力\n+8 体力\n+15 集中\n-10 スタミナ\n洞察の聖痕",
+      "rawText": "ホーム\nデータベース\nアルカナ\nメイド・バイ・ペトラ♡\n\nペトラ\n\nメイド・バイ・ペトラ♡\n\nメインステータス\n\n集中\n\nアシスト\n\n会心率\n共用\n\n実業家のコネ\n\n絆ポイントが60以上の場合 感応トレーニングの発生率の上昇 +130\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n集中\n+5\n潜在力ポイント増加\n+9\n絆ポイント増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+7.6%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n雨の日\n\n成功\n+10 力\n+10 体力\n集中の感覚\n\n代表の苦悩\n\n露を宿したバラ色…？\n\n成功\n+5 力\n+5 体力\n+12 集中\n-10 スタミナ\n攻撃の感覚\n\n瑞々しいグレープフルーツのオレンジ色……？\n\n成功\n+10 スタミナ\n\nペトラのサイズ理論\n\n成功\n+8 力\n+8 体力\n+15 集中\n-10 スタミナ\n洞察の聖痕"
+    },
+    {
+      "slug": "master-of-fried-food",
+      "name": "天ぷら名人",
+      "characterName": "ターニャ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7105101.webp",
+      "illustrationId": "7105101",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "保護",
+              "icon": "wiki/images/general/journey_stats/stat.protection.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "救援者",
+              "icon": "wiki/images/arcanas/icons/tag.savior.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "常連客",
+        "effect": "絆ポイントが40以上の場合 感応トレーニングの発生率の上昇 +170"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n保護\n+7\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+5.9%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+24.84%\n依頼効果\n古のコイン獲得量上昇\n+1.5%\nイベント\n\n線路補修。うん。\n\n成功\n+10 保護\n保護の感覚\n\n深夜の天ぷら。うん。\n\n成功\n+10 保護\n+1 コンディション\n保護の腕前\n\n野菜きらい。うん。\n\n成功\n+8 忍耐\n+12 保護\n天ぷらパーティー",
+      "rawText": "ホーム\nデータベース\nアルカナ\n天ぷら名人\n\nターニャ\n\n天ぷら名人\n\nメインステータス\n\n保護\n\nアシスト\n\n特殊効果\n救援者\n\n常連客\n\n絆ポイントが40以上の場合 感応トレーニングの発生率の上昇 +170\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n保護\n+7\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+5.9%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+24.84%\n依頼効果\n古のコイン獲得量上昇\n+1.5%\nイベント\n\n線路補修。うん。\n\n成功\n+10 保護\n保護の感覚\n\n深夜の天ぷら。うん。\n\n成功\n+10 保護\n+1 コンディション\n保護の腕前\n\n野菜きらい。うん。\n\n成功\n+8 忍耐\n+12 保護\n天ぷらパーティー"
+    },
+    {
+      "slug": "more-than-professional",
+      "name": "誰よりもプロフェッショナル",
+      "characterName": "ベラ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7150701.webp",
+      "illustrationId": "7150701",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "サポーター",
+              "icon": "wiki/images/characters/icon/class.supporter.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "ベテラン配達屋",
+        "effect": "絆ポイントが60以上の場合 感応トレーニングの発生率の上昇 +130"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+11\n絆ポイント増加\n+11\nトレーニング効果\n追加体力ステータス獲得\n+1\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+3%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n飛んで火に入る夏の虫\n\n成功\n+5 体力\n+10 忍耐\n\nベラシールド21\n\n成功\n+10 体力\n+8 忍耐\n\nすべて経験談です\n\n成功\n-5 スタミナ\n+12 体力\n+8 忍耐\n星光の恩恵",
+      "rawText": "ホーム\nデータベース\nアルカナ\n誰よりもプロフェッショナル\n\nベラ\n\n誰よりもプロフェッショナル\n\nメインステータス\n\n体力\n\nアシスト\n\n特殊効果\nサポーター\n\nベテラン配達屋\n\n絆ポイントが60以上の場合 感応トレーニングの発生率の上昇 +130\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+11\n絆ポイント増加\n+11\nトレーニング効果\n追加体力ステータス獲得\n+1\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+3%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+19.48%\nイベント\n\n飛んで火に入る夏の虫\n\n成功\n+5 体力\n+10 忍耐\n\nベラシールド21\n\n成功\n+10 体力\n+8 忍耐\n\nすべて経験談です\n\n成功\n-5 スタミナ\n+12 体力\n+8 忍耐\n星光の恩恵"
+    },
+    {
+      "slug": "night-view-beyond-the-window",
+      "name": "ガラス越しの夜景",
+      "characterName": "カルメン",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7101101.webp",
+      "illustrationId": "7101101",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "保護",
+              "icon": "wiki/images/general/journey_stats/stat.protection.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "救援者",
+              "icon": "wiki/images/arcanas/icons/tag.savior.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "秘密のスープレシピ",
+        "effect": "絆ポイントが60以上の場合 コンディション効果上昇 +5.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n保護\n+9\n古のコイン増加\n+12\n絆ポイント増加\n+8\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nトレーニング失敗率低下\n+2%\n超感応トレーニング効果\n感応トレーニングの効果上昇\n+6%\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n誰のためにスープを作るのか\n\nうん、じゃあ一杯お願いしてもいいかな？\n\n成功\n+5 保護\n自信\n\nいや、民間人用で十分だよ…\n\n成功\n+5 保護\n+1 コンディション\n\n世渡り上手\n\n分かった。できるだけ変に書いてみるよ。\n\n成功\n+8 忍耐\n+12 保護\n\nもっと良いアイデアがあるんだけど…\n\n成功\n+10 保護\n+1 コンディション\n\n仲間の痕跡\n\n意味があるものなら、私が買ってあげるよ。\n\n成功\n+5 保護\n+1 コンディション\n余裕ある応酬\n\n後になって後悔するよりも、自分の気持ちに従う方がいいよ。\n\n成功\n+8 忍耐\n+12 保護\n余裕ある応酬",
+      "rawText": "ホーム\nデータベース\nアルカナ\nガラス越しの夜景\n\nカルメン\n\nガラス越しの夜景\n\nメインステータス\n\n保護\n\nアシスト\n\n特殊効果\n救援者\n\n秘密のスープレシピ\n\n絆ポイントが60以上の場合 コンディション効果上昇 +5.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n保護\n+9\n古のコイン増加\n+12\n絆ポイント増加\n+8\nトレーニング効果\nトレーニングの効果上昇\n+12.08%\nトレーニング失敗率低下\n+2%\n超感応トレーニング効果\n感応トレーニングの効果上昇\n+6%\n超感応トレーニングの効果上昇\n+22.16%\nイベント\n\n誰のためにスープを作るのか\n\nうん、じゃあ一杯お願いしてもいいかな？\n\n成功\n+5 保護\n自信\n\nいや、民間人用で十分だよ…\n\n成功\n+5 保護\n+1 コンディション\n\n世渡り上手\n\n分かった。できるだけ変に書いてみるよ。\n\n成功\n+8 忍耐\n+12 保護\n\nもっと良いアイデアがあるんだけど…\n\n成功\n+10 保護\n+1 コンディション\n\n仲間の痕跡\n\n意味があるものなら、私が買ってあげるよ。\n\n成功\n+5 保護\n+1 コンディション\n余裕ある応酬\n\n後になって後悔するよりも、自分の気持ちに従う方がいいよ。\n\n成功\n+8 忍耐\n+12 保護\n余裕ある応酬"
+    },
+    {
+      "slug": "no-pain-no-gain",
+      "name": "ノーペイン、ノーゲイン",
+      "characterName": "レイシー",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7104901.webp",
+      "illustrationId": "7104901",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "攻撃力",
+              "icon": "wiki/images/general/combat_stats/stat.atk.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "印税収入",
+        "effect": "絆ポイントが60以上の場合 古のコイン獲得量上昇 +3.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+5\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+9.5%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+260\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n同床異夢\n\n成功\n+5 力\n+10 スタミナ\n\n書きたい物語\n\n成功\n+5 力\n+5 集中\n+10 スタミナ\n\n暗い過去\n\n成功\n+5 力\n+10 スタミナ\n鋭い攻勢",
+      "rawText": "ホーム\nデータベース\nアルカナ\nノーペイン、ノーゲイン\n\nレイシー\n\nノーペイン、ノーゲイン\n\nメインステータス\n\n力\n\nアシスト\n\n攻撃力\n共用\n\n印税収入\n\n絆ポイントが60以上の場合 古のコイン獲得量上昇 +3.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+5\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+9.5%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+260\n超感応トレーニングの効果上昇\n+24.84%\nイベント\n\n同床異夢\n\n成功\n+5 力\n+10 スタミナ\n\n書きたい物語\n\n成功\n+5 力\n+5 集中\n+10 スタミナ\n\n暗い過去\n\n成功\n+5 力\n+10 スタミナ\n鋭い攻勢"
+    },
+    {
+      "slug": "the-princess-ascends-the-throne",
+      "name": "姫、王位に就く",
+      "characterName": "フレイ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7101301.webp",
+      "illustrationId": "7101301",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "特殊効果",
+              "icon": "wiki/images/arcanas/icons/tag.special.webp"
+            },
+            {
+              "label": "サポーター",
+              "icon": "wiki/images/characters/icon/class.supporter.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "確かな補給",
+        "effect": "絆ポイントが50以上の場合 コンディション効果上昇 +3.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n体力\n+5\n絆ポイント増加\n+4\nトレーニング効果\nトレーニングの効果上昇\n+17.12%\nトレーニング失敗率低下\n+6.16%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+24.84%\n依頼効果\n古のコイン獲得量上昇\n+3.5%\nイベント\n\nヘッドハンティング\n\n成功\n+10 体力\n+5 忍耐\n\nフレスマ\n\n成功\n+10 体力\n+5 忍耐\n+5 集中\n\nあれはいい水だ\n\n成功\n+12 体力\n+8 忍耐\n星光の恩恵",
+      "rawText": "ホーム\nデータベース\nアルカナ\n姫、王位に就く\n\nフレイ\n\n姫、王位に就く\n\nメインステータス\n\n体力\n\nアシスト\n\n特殊効果\nサポーター\n\n確かな補給\n\n絆ポイントが50以上の場合 コンディション効果上昇 +3.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n体力\n+5\n絆ポイント増加\n+4\nトレーニング効果\nトレーニングの効果上昇\n+17.12%\nトレーニング失敗率低下\n+6.16%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+24.84%\n依頼効果\n古のコイン獲得量上昇\n+3.5%\nイベント\n\nヘッドハンティング\n\n成功\n+10 体力\n+5 忍耐\n\nフレスマ\n\n成功\n+10 体力\n+5 忍耐\n+5 集中\n\nあれはいい水だ\n\n成功\n+12 体力\n+8 忍耐\n星光の恩恵"
+    },
+    {
+      "slug": "theres-only-one-truth",
+      "name": "真実はいつも一つでしょう？",
+      "characterName": "リリー",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7105201.webp",
+      "illustrationId": "7105201",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "攻撃力",
+              "icon": "wiki/images/general/combat_stats/stat.atk.webp"
+            },
+            {
+              "label": "キャスター",
+              "icon": "wiki/images/characters/icon/class.caster.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "小説に没頭",
+        "effect": "絆ポイントが50以上の場合 コンディション効果上昇 +4.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+13.76%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n超感応トレーニングの効果上昇\n+22.16%\n追加集中ステータス獲得\n+1\n依頼効果\n古のコイン獲得量上昇\n+4.2%\nイベント\n\n聖遺物、窃盗事件\n\n成功\n+8 力\n+12 集中\n\nドーナツ推理\n\nリリーは悪くないよ。 \n\n成功\n目利き\n\nやっぱり少し意地悪だったね。\n\n成功\n-15 スタミナ\n集中の腕前\n\nランパディスの日常\n\n成功\n+15 集中\n決然たる覚悟",
+      "rawText": "ホーム\nデータベース\nアルカナ\n真実はいつも一つでしょう？\n\nリリー\n\n真実はいつも一つでしょう？\n\nメインステータス\n\n集中\n\nアシスト\n\n攻撃力\nキャスター\n\n小説に没頭\n\n絆ポイントが50以上の場合 コンディション効果上昇 +4.00%\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+11\nトレーニング効果\nトレーニングの効果上昇\n+13.76%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n超感応トレーニングの効果上昇\n+22.16%\n追加集中ステータス獲得\n+1\n依頼効果\n古のコイン獲得量上昇\n+4.2%\nイベント\n\n聖遺物、窃盗事件\n\n成功\n+8 力\n+12 集中\n\nドーナツ推理\n\nリリーは悪くないよ。 \n\n成功\n目利き\n\nやっぱり少し意地悪だったね。\n\n成功\n-15 スタミナ\n集中の腕前\n\nランパディスの日常\n\n成功\n+15 集中\n決然たる覚悟"
+    },
+    {
+      "slug": "under-the-glass-moon-over-the-pavilion",
+      "name": "楼閣の上、ガラスの月を迎えて",
+      "characterName": "リン",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7101601.webp",
+      "illustrationId": "7101601",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "攻撃力",
+              "icon": "wiki/images/general/combat_stats/stat.atk.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "花鳥風月",
+        "effect": "絆ポイントが70以上の場合 追加力ステータス獲得 +1"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+2\n古のコイン増加\n+17\n絆ポイント増加\n+16\nトレーニング効果\nトレーニングの効果上昇\n+15.44%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+16.8%\nイベント\n\n恥ずかしくありません！\n\n成功\n+5 保護\n共感能力\n+10 潜在力ポイント\n攻撃の感覚\n\n万物の価値\n\n私が確認してみるよ。\n\n成功\n+25 保護\n-10 スタミナ\n\n…変なものが 入ってるんじゃない？\n\n成功\n+10 保護\n+15 潜在力ポイント\n\n健康が一番です\n\n成功\n+8 力\n+12 保護\n攻撃の聖痕",
+      "rawText": "ホーム\nデータベース\nアルカナ\n楼閣の上、ガラスの月を迎えて\n\nリン\n\n楼閣の上、ガラスの月を迎えて\n\nメインステータス\n\n力\n\nアシスト\n\n攻撃力\n共用\n\n花鳥風月\n\n絆ポイントが70以上の場合 追加力ステータス獲得 +1\n\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+2\n古のコイン増加\n+17\n絆ポイント増加\n+16\nトレーニング効果\nトレーニングの効果上昇\n+15.44%\n追加潜在力ポイントの獲得\n+2\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+16.8%\nイベント\n\n恥ずかしくありません！\n\n成功\n+5 保護\n共感能力\n+10 潜在力ポイント\n攻撃の感覚\n\n万物の価値\n\n私が確認してみるよ。\n\n成功\n+25 保護\n-10 スタミナ\n\n…変なものが 入ってるんじゃない？\n\n成功\n+10 保護\n+15 潜在力ポイント\n\n健康が一番です\n\n成功\n+8 力\n+12 保護\n攻撃の聖痕"
+    },
+    {
+      "slug": "undercover-cop",
+      "name": "アンダーカバー・コップ",
+      "characterName": "アンナ",
+      "characterSlug": null,
+      "rarity": "SSR",
+      "rarityKey": "ssr",
+      "illustration": "wiki/images/arcanas/illustration/7150201.webp",
+      "illustrationId": "7150201",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        },
+        {
+          "group": "アシスト",
+          "items": [
+            {
+              "label": "強靭度",
+              "icon": "wiki/images/arcanas/icons/tag.toughness.webp"
+            },
+            {
+              "label": "共用",
+              "icon": "wiki/images/arcanas/icons/tag.universal.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "常時パトロール",
+        "effect": "絆ポイントが50以上の場合 古のコイン獲得量上昇 +5.00%"
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": null,
+      "rawText": "ホーム\nデータベース\nアルカナ\nアンダーカバー・コップ\n\nアンナ\n\nアンダーカバー・コップ\n\nメインステータス\n\n忍耐\n\nアシスト\n\n強靭度\n共用\n\n常時パトロール\n\n絆ポイントが50以上の場合 古のコイン獲得量上昇 +5.00%\n\nレベル\n1\n34\n35\n40\n45\n50\nトレーニング効果\n追加忍耐ステータス獲得\n+1\nトレーニングの効果上昇\n+12.08%\nコンディション効果上昇\n+5.9%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+325\n超感応トレーニングの効果上昇\n+24.84%\n依頼効果\n依頼成功率アップ\n+3.4%\nイベント\n\nブルー・アンド・ライダー\n\n成功\n+10 スタミナ\n+5 忍耐\n\nブルー・イン・ブティック\n\nタウンガードの嬢ちゃん、ちょっと乱暴にしてやろうか？\n\n成功\n+15 忍耐\n\nいい加減にしろーっ！！\n\n成功\n+20 潜在力ポイント\n\nブルー・バーサス・バニー\n\n成功\n+15 忍耐\n+10 潜在力ポイント\n第2の心臓"
+    },
+    {
+      "slug": "a-satisfying-bloom",
+      "name": "満足な開花",
+      "characterName": "リディア",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6103401.webp",
+      "illustrationId": "6103401",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+8\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\nトレーニング失敗率低下\n+2.8%\nコンディション効果上昇\n+2.06%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n星\n\n成功\n+3 集中\n+3 力\n\n同族の匂い\n\n成功\n+8 保護\n+5 スタミナ\n\n妄想の資格条件\n\n成功\n+12 忍耐\n+10 スタミナ",
+      "rawText": "ホーム\nデータベース\nアルカナ\n満足な開花\n\nリディア\n\n満足な開花\n\nメインステータス\n\n集中\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+8\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\nトレーニング失敗率低下\n+2.8%\nコンディション効果上昇\n+2.06%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n星\n\n成功\n+3 集中\n+3 力\n\n同族の匂い\n\n成功\n+8 保護\n+5 スタミナ\n\n妄想の資格条件\n\n成功\n+12 忍耐\n+10 スタミナ"
+    },
+    {
+      "slug": "assault-of-the-rampaging-dragon",
+      "name": "暴竜の襲来",
+      "characterName": "スカーレット",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6100701.webp",
+      "illustrationId": "6100701",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": null,
+      "rawText": "ホーム\nデータベース\nアルカナ\n暴竜の襲来\n\nスカーレット\n\n暴竜の襲来\n\nメインステータス\n\n体力\nレベル\n1\n34\n35\n40\n45\n50\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\nトレーニング失敗率低下\n+2.8%\nコンディション効果上昇\n+2.06%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+14.12%\nイベント\n\n運命\n\n成功\n+3 体力\n+3 潜在力ポイント\n\n翼を大きく広げて\n\n応援してるよ、スカーレット！楽しみにしているぞ！ \n\n成功\n+8 体力\n+10 潜在力ポイント\n\n危ないぞ、スカーレット…！\n\n成功\n+3 体力\n-10 スタミナ\n生命の感覚\n\n食べれる側の人間\n\nスカーレットを応援する。\n\n成功\n+12 体力\n+15 潜在力ポイント\n\nシャルルを応援する。 \n\n成功\n+3 体力\n-1 コンディション\n共感能力"
+    },
+    {
+      "slug": "beyond-the-moon",
+      "name": "月を越えて",
+      "characterName": "ルナ",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6100301.webp",
+      "illustrationId": "6100301",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+4\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+225\n超感応トレーニングの効果上昇\n+14.12%\nイベント\n\n正義\n\n成功\n+3 力\n+3 潜在力ポイント\n\n何でも聞いてくださいな\n\n成功\n+12 力\n\n未来は手の中に\n\n成功\n+18 力\n+5 潜在力ポイント",
+      "rawText": "ホーム\nデータベース\nアルカナ\n月を越えて\n\nルナ\n\n月を越えて\n\nメインステータス\n\n力\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+4\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+225\n超感応トレーニングの効果上昇\n+14.12%\nイベント\n\n正義\n\n成功\n+3 力\n+3 潜在力ポイント\n\n何でも聞いてくださいな\n\n成功\n+12 力\n\n未来は手の中に\n\n成功\n+18 力\n+5 潜在力ポイント"
+    },
+    {
+      "slug": "butterfly-of-phantasm",
+      "name": "幻影の蝶",
+      "characterName": "セイラ",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6101401.webp",
+      "illustrationId": "6101401",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+3.94%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n女帝\n\n成功\n+3 体力\n+3 潜在力ポイント\n\n金縛り\n\n成功\n+10 スタミナ\n+1 コンディション\n\n夢は感じるもの\n\n成功\n+15 スタミナ\n生命の感覚",
+      "rawText": "ホーム\nデータベース\nアルカナ\n幻影の蝶\n\nセイラ\n\n幻影の蝶\n\nメインステータス\n\n体力\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+3.94%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n女帝\n\n成功\n+3 体力\n+3 潜在力ポイント\n\n金縛り\n\n成功\n+10 スタミナ\n+1 コンディション\n\n夢は感じるもの\n\n成功\n+15 スタミナ\n生命の感覚"
+    },
+    {
+      "slug": "cats-do-not-smile",
+      "name": "猫は笑わない",
+      "characterName": "スマイル",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6100201.webp",
+      "illustrationId": "6100201",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n集中\n+1\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+14.12%\n依頼効果\n古のコイン獲得量上昇\n+2.7%\nイベント\n\n魔術師\n\n成功\n+5 集中\n\n種の進化\n\n頭をそっと撫でてみよう。\n\n成功\n+8 集中\n+5 保護\n+1 コンディション\n失敗\n+8 集中\n-10 スタミナ\n\n今だ！アセラみたいにお腹を触るんだ！\n\n成功\n+8 集中\n+5 スタミナ\n\n笑いの調査\n\n成功\n+12 集中\n+10 スタミナ",
+      "rawText": "ホーム\nデータベース\nアルカナ\n猫は笑わない\n\nスマイル\n\n猫は笑わない\n\nメインステータス\n\n集中\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n集中\n+1\nトレーニング効果\nトレーニングの効果上昇\n+10.4%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+14.12%\n依頼効果\n古のコイン獲得量上昇\n+2.7%\nイベント\n\n魔術師\n\n成功\n+5 集中\n\n種の進化\n\n頭をそっと撫でてみよう。\n\n成功\n+8 集中\n+5 保護\n+1 コンディション\n失敗\n+8 集中\n-10 スタミナ\n\n今だ！アセラみたいにお腹を触るんだ！\n\n成功\n+8 集中\n+5 スタミナ\n\n笑いの調査\n\n成功\n+12 集中\n+10 スタミナ"
+    },
+    {
+      "slug": "choosing-the-next-prey",
+      "name": "獲物選び",
+      "characterName": "トリッシュ",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6101501.webp",
+      "illustrationId": "6101501",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+1\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+185\n超感応トレーニングの効果上昇\n+16.8%\nイベント\n\n審判\n\n成功\n+3 力\n+3 体力\n\n助けに来たわけじゃない\n\n成功\n+8 力\n攻撃の感覚\n\nフレッシュ・スぺシャル便利屋\n\n今すぐできることから始めた方がいいんじゃない？\n\n成功\n+18 力\n+20 潜在力ポイント\n\n目の前のお金が全てじゃないよ。\n\n成功\n+8 力\n攻撃の才能",
+      "rawText": "ホーム\nデータベース\nアルカナ\n獲物選び\n\nトリッシュ\n\n獲物選び\n\nメインステータス\n\n力\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+1\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+185\n超感応トレーニングの効果上昇\n+16.8%\nイベント\n\n審判\n\n成功\n+3 力\n+3 体力\n\n助けに来たわけじゃない\n\n成功\n+8 力\n攻撃の感覚\n\nフレッシュ・スぺシャル便利屋\n\n今すぐできることから始めた方がいいんじゃない？\n\n成功\n+18 力\n+20 潜在力ポイント\n\n目の前のお金が全てじゃないよ。\n\n成功\n+8 力\n攻撃の才能"
+    },
+    {
+      "slug": "cleaning-and-an-unexpected-guest",
+      "name": "掃除、思いがけない客人",
+      "characterName": "クレア",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6100601.webp",
+      "illustrationId": "6100601",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+1\n潜在力ポイント増加\n+4\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nコンディション効果上昇\n+3.94%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+14.12%\nイベント\n\n力\n\n成功\n+3 力\n+3 スタミナ\n\nサプライズパーティー\n\n成功\n+8 力\n+5 集中\n\nバイクホッグはですね…\n\n成功\n+8 力\n+5 集中\n洞察の腕前",
+      "rawText": "ホーム\nデータベース\nアルカナ\n掃除、思いがけない客人\n\nクレア\n\n掃除、思いがけない客人\n\nメインステータス\n\n力\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+1\n潜在力ポイント増加\n+4\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nコンディション効果上昇\n+3.94%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+14.12%\nイベント\n\n力\n\n成功\n+3 力\n+3 スタミナ\n\nサプライズパーティー\n\n成功\n+8 力\n+5 集中\n\nバイクホッグはですね…\n\n成功\n+8 力\n+5 集中\n洞察の腕前"
+    },
+    {
+      "slug": "enough-chit-chat",
+      "name": "会話終了",
+      "characterName": "ロベルタ",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6102601.webp",
+      "illustrationId": "6102601",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "保護",
+              "icon": "wiki/images/general/journey_stats/stat.protection.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+185\n超感応トレーニングの効果上昇\n+11.44%\n依頼効果\n古のコイン獲得量上昇\n+4.2%\nイベント\n\n恋人\n\n成功\n+3 保護\n+3 スタミナ\n\nあの事件の後日談\n\n成功\n+8 保護\n+5 潜在力ポイント\n\n伝説の剣\n\n成功\n+15 保護\n+10 潜在力ポイント",
+      "rawText": "ホーム\nデータベース\nアルカナ\n会話終了\n\nロベルタ\n\n会話終了\n\nメインステータス\n\n保護\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+185\n超感応トレーニングの効果上昇\n+11.44%\n依頼効果\n古のコイン獲得量上昇\n+4.2%\nイベント\n\n恋人\n\n成功\n+3 保護\n+3 スタミナ\n\nあの事件の後日談\n\n成功\n+8 保護\n+5 潜在力ポイント\n\n伝説の剣\n\n成功\n+15 保護\n+10 潜在力ポイント"
+    },
+    {
+      "slug": "final-touches",
+      "name": "後始末",
+      "characterName": "ルー",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6102701.webp",
+      "illustrationId": "6102701",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+7\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nコンディション効果上昇\n+3%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n運命\n\n成功\n+3 集中\n+3 スタミナ\n\n安全キャンペーン\n\n成功\n+8 集中\n+10 潜在力ポイント\n\n体重はただの数字\n\n成功\n+12 集中\n集中の感覚",
+      "rawText": "ホーム\nデータベース\nアルカナ\n後始末\n\nルー\n\n後始末\n\nメインステータス\n\n集中\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+7\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nコンディション効果上昇\n+3%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n運命\n\n成功\n+3 集中\n+3 スタミナ\n\n安全キャンペーン\n\n成功\n+8 集中\n+10 潜在力ポイント\n\n体重はただの数字\n\n成功\n+12 集中\n集中の感覚"
+    },
+    {
+      "slug": "foundation-of-elegance",
+      "name": "品格財団",
+      "characterName": "エピンデル",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6103001.webp",
+      "illustrationId": "6103001",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "保護",
+              "icon": "wiki/images/general/journey_stats/stat.protection.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": null,
+      "rawText": "ホーム\nデータベース\nアルカナ\n品格財団\n\nエピンデル\n\n品格財団\n\nメインステータス\n\n保護\nレベル\n1\n34\n35\n40\n45\n50\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nトレーニング出現確率上昇\n+2%\nコンディション効果上昇\n+2.06%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+16.8%\nイベント\n\n皇帝\n\n成功\n+3 保護\n+3 忍耐\n\n教養の証明\n\n成功\n+3 保護\n+5 スタミナ\n+1 コンディション\n\n犬鷹の仲\n\n成功\n+3 保護\n+5 スタミナ\n+15 潜在力ポイント\n保護の腕前"
+    },
+    {
+      "slug": "rabbit-town",
+      "name": "ラビットタウン",
+      "characterName": "マルシル",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6150601.webp",
+      "illustrationId": "6150601",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n忍耐\n+2\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの効果上昇\n+3.7%\n超感応トレーニングの効果上昇\n+11.44%\n依頼効果\n古のコイン獲得量上昇\n+2.7%\nイベント\n\n節制\n\n成功\n+5 忍耐\n\n変種ウサギの罠\n\nやめろ、クラリッサ…！\n\n成功\n+10 スタミナ\n+5 忍耐\n\nウサギの真似をする魔獣がうろついてるらしい！\n\n成功\n+1 コンディション\n+5 忍耐\n\n人をダメにする空虚体\n\nそんな訳ないよ。\n\n成功\n防御の感覚\n\nお、恐ろしい話だ…\n\n成功\n+10 スタミナ\n+1 コンディション",
+      "rawText": "ホーム\nデータベース\nアルカナ\nラビットタウン\n\nマルシル\n\nラビットタウン\n\nメインステータス\n\n忍耐\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n忍耐\n+2\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの効果上昇\n+3.7%\n超感応トレーニングの効果上昇\n+11.44%\n依頼効果\n古のコイン獲得量上昇\n+2.7%\nイベント\n\n節制\n\n成功\n+5 忍耐\n\n変種ウサギの罠\n\nやめろ、クラリッサ…！\n\n成功\n+10 スタミナ\n+5 忍耐\n\nウサギの真似をする魔獣がうろついてるらしい！\n\n成功\n+1 コンディション\n+5 忍耐\n\n人をダメにする空虚体\n\nそんな訳ないよ。\n\n成功\n防御の感覚\n\nお、恐ろしい話だ…\n\n成功\n+10 スタミナ\n+1 コンディション"
+    },
+    {
+      "slug": "ready-aim-fire",
+      "name": "準備、照準、発射",
+      "characterName": "クラリッサ",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6102201.webp",
+      "illustrationId": "6102201",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+1\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+2.06%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+225\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n悪魔\n\n成功\n+5 力\n\nハンターのプライド\n\n成功\n+5 集中\n+8 力\n\nハニートラップ\n\n成功\n-15 スタミナ\n+5 集中\n+8 力\n速度の才能",
+      "rawText": "ホーム\nデータベース\nアルカナ\n準備、照準、発射\n\nクラリッサ\n\n準備、照準、発射\n\nメインステータス\n\n力\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+1\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+2.06%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+225\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n悪魔\n\n成功\n+5 力\n\nハンターのプライド\n\n成功\n+5 集中\n+8 力\n\nハニートラップ\n\n成功\n-15 スタミナ\n+5 集中\n+8 力\n速度の才能"
+    },
+    {
+      "slug": "silent-hatred",
+      "name": "静かな憎悪",
+      "characterName": "エデ",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6101801.webp",
+      "illustrationId": "6101801",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+4\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+2.06%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+225\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n教皇\n\n成功\n+3 忍耐\n+3 潜在力ポイント\n\n必要ない！\n\n成功\n-10 スタミナ\n+12 忍耐\n\nご褒美です\n\n成功\n-15 スタミナ\n+18 忍耐\n防御の腕前",
+      "rawText": "ホーム\nデータベース\nアルカナ\n静かな憎悪\n\nエデ\n\n静かな憎悪\n\nメインステータス\n\n忍耐\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+4\nトレーニング効果\nトレーニングの効果上昇\n+8.72%\nコンディション効果上昇\n+2.06%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+225\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n教皇\n\n成功\n+3 忍耐\n+3 潜在力ポイント\n\n必要ない！\n\n成功\n-10 スタミナ\n+12 忍耐\n\nご褒美です\n\n成功\n-15 スタミナ\n+18 忍耐\n防御の腕前"
+    },
+    {
+      "slug": "sweet-fluffy-zzz",
+      "name": "甘くてフワフワで…スヤァ…",
+      "characterName": "セルパン",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6101901.webp",
+      "illustrationId": "6101901",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "保護",
+              "icon": "wiki/images/general/journey_stats/stat.protection.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+4\n絆ポイント増加\n+8\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nコンディション効果上昇\n+3.94%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n太陽\n\n成功\n+5 保護\n\n完璧なまくら\n\n成功\n+10 保護\n\n出生の秘密\n\n成功\n+12 保護\n+10 潜在力ポイント\n保護の腕前",
+      "rawText": "ホーム\nデータベース\nアルカナ\n甘くてフワフワで…スヤァ…\n\nセルパン\n\n甘くてフワフワで…スヤァ…\n\nメインステータス\n\n保護\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+4\n絆ポイント増加\n+8\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nコンディション効果上昇\n+3.94%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n太陽\n\n成功\n+5 保護\n\n完璧なまくら\n\n成功\n+10 保護\n\n出生の秘密\n\n成功\n+12 保護\n+10 潜在力ポイント\n保護の腕前"
+    },
+    {
+      "slug": "the-beginning-of-the-journey",
+      "name": "旅のはじまり",
+      "characterName": "アセラ",
+      "characterSlug": null,
+      "rarity": "SR",
+      "rarityKey": "sr",
+      "illustration": "wiki/images/arcanas/illustration/6100101.webp",
+      "illustrationId": "6100101",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": null,
+      "rawText": "ホーム\nデータベース\nアルカナ\n旅のはじまり\n\nアセラ\n\n旅のはじまり\n\nメインステータス\n\n体力\nレベル\n1\n34\n35\n40\n45\n50\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nコンディション効果上昇\n+2.06%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+185\n超感応トレーニングの効果上昇\n+16.8%\n依頼効果\n依頼成功率アップ\n+2.7%\nイベント\n\n戦車\n\n成功\n+3 体力\n+3 保護\n\n演劇鑑賞\n\n成功\n+3 体力\n+20 潜在力ポイント\n\nお料理教室\n\n成功\n+12 体力\n+10 潜在力ポイント\n生命の感覚"
+    },
+    {
+      "slug": "ambitious-newcomer",
+      "name": "野心あふれる新入り",
+      "characterName": "ナル",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999911.webp",
+      "illustrationId": "5999911",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+4\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n女教皇\n\n成功\n+3 集中\n+3 潜在力ポイント",
+      "rawText": "ホーム\nデータベース\nアルカナ\n野心あふれる新入り\n\nナル\n\n野心あふれる新入り\n\nメインステータス\n\n集中\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+4\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n女教皇\n\n成功\n+3 集中\n+3 潜在力ポイント"
+    },
+    {
+      "slug": "baton-of-the-people",
+      "name": "民衆の警棒",
+      "characterName": "アンナ",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999920.webp",
+      "illustrationId": "5999920",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n忍耐\n+1\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n隠者\n\n成功\n+3 忍耐\n+3 スタミナ",
+      "rawText": "ホーム\nデータベース\nアルカナ\n民衆の警棒\n\nアンナ\n\n民衆の警棒\n\nメインステータス\n\n忍耐\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n忍耐\n+1\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n隠者\n\n成功\n+3 忍耐\n+3 スタミナ"
+    },
+    {
+      "slug": "blue-blooded-entrepreneur",
+      "name": "青い血の起業家",
+      "characterName": "フレイ",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999907.webp",
+      "illustrationId": "5999907",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n体力\n+1\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n戦車\n\n成功\n+3 体力\n+3 保護",
+      "rawText": "ホーム\nデータベース\nアルカナ\n青い血の起業家\n\nフレイ\n\n青い血の起業家\n\nメインステータス\n\n体力\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n体力\n+1\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n戦車\n\n成功\n+3 体力\n+3 保護"
+    },
+    {
+      "slug": "brave-courier",
+      "name": "勇敢な配達屋",
+      "characterName": "ベラ",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999916.webp",
+      "illustrationId": "5999916",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "保護",
+              "icon": "wiki/images/general/journey_stats/stat.protection.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n保護\n+1\n潜在力ポイント増加\n+4\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n塔\n\n成功\n+3 保護\n+3 潜在力ポイント",
+      "rawText": "ホーム\nデータベース\nアルカナ\n勇敢な配達屋\n\nベラ\n\n勇敢な配達屋\n\nメインステータス\n\n保護\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n保護\n+1\n潜在力ポイント増加\n+4\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n塔\n\n成功\n+3 保護\n+3 潜在力ポイント"
+    },
+    {
+      "slug": "druid-out-of-the-forest",
+      "name": "森から出たドルイド",
+      "characterName": "ダーナ",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999903.webp",
+      "illustrationId": "5999903",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+1\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n審判\n\n成功\n+3 力\n+3 体力",
+      "rawText": "ホーム\nデータベース\nアルカナ\n森から出たドルイド\n\nダーナ\n\n森から出たドルイド\n\nメインステータス\n\n力\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+1\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n審判\n\n成功\n+3 力\n+3 体力"
+    },
+    {
+      "slug": "eagle-eyed-hunter",
+      "name": "千里眼を持つハンター",
+      "characterName": "クラリッサ",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999912.webp",
+      "illustrationId": "5999912",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n集中\n+1\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nトレーニング失敗率低下\n+2.8%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n星\n\n成功\n+3 集中\n+3 力",
+      "rawText": "ホーム\nデータベース\nアルカナ\n千里眼を持つハンター\n\nクラリッサ\n\n千里眼を持つハンター\n\nメインステータス\n\n集中\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n集中\n+1\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nトレーニング失敗率低下\n+2.8%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n星\n\n成功\n+3 集中\n+3 力"
+    },
+    {
+      "slug": "galloping-spirit-of-the-plains",
+      "name": "草原の疾走魂",
+      "characterName": "ハーレー",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999918.webp",
+      "illustrationId": "5999918",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n忍耐\n+1\n古のコイン増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n節制\n\n成功\n+5 忍耐",
+      "rawText": "ホーム\nデータベース\nアルカナ\n草原の疾走魂\n\nハーレー\n\n草原の疾走魂\n\nメインステータス\n\n忍耐\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n忍耐\n+1\n古のコイン増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n節制\n\n成功\n+5 忍耐"
+    },
+    {
+      "slug": "girl-of-kotodama",
+      "name": "言霊の少女",
+      "characterName": "キラ",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999910.webp",
+      "illustrationId": "5999910",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n集中\n+1\n古のコイン増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n魔術師\n\n成功\n+5 集中",
+      "rawText": "ホーム\nデータベース\nアルカナ\n言霊の少女\n\nキラ\n\n言霊の少女\n\nメインステータス\n\n集中\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n集中\n+1\n古のコイン増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n魔術師\n\n成功\n+5 集中"
+    },
+    {
+      "slug": "grand-master-of-the-wild-roses",
+      "name": "野薔薇の騎士団長",
+      "characterName": "シャルル",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999909.webp",
+      "illustrationId": "5999909",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n死\n\n成功\n+5 体力",
+      "rawText": "ホーム\nデータベース\nアルカナ\n野薔薇の騎士団長\n\nシャルル\n\n野薔薇の騎士団長\n\nメインステータス\n\n体力\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n死\n\n成功\n+5 体力"
+    },
+    {
+      "slug": "ice-forged-blade",
+      "name": "氷で作られた剣",
+      "characterName": "ルー",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999917.webp",
+      "illustrationId": "5999917",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+4\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n教皇\n\n成功\n+3 忍耐\n+3 潜在力ポイント",
+      "rawText": "ホーム\nデータベース\nアルカナ\n氷で作られた剣\n\nルー\n\n氷で作られた剣\n\nメインステータス\n\n忍耐\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+4\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n教皇\n\n成功\n+3 忍耐\n+3 潜在力ポイント"
+    },
+    {
+      "slug": "just-one-smile-please",
+      "name": "ご注文はスマイルで",
+      "characterName": "スマイル",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999908.webp",
+      "illustrationId": "5999908",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "集中",
+              "icon": "wiki/images/general/journey_stats/stat.focus.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n集中\n+1\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n運命\n\n成功\n+3 集中\n+3 スタミナ",
+      "rawText": "ホーム\nデータベース\nアルカナ\nご注文はスマイルで\n\nスマイル\n\nご注文はスマイルで\n\nメインステータス\n\n集中\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n集中\n+1\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n運命\n\n成功\n+3 集中\n+3 スタミナ"
+    },
+    {
+      "slug": "knights-shield",
+      "name": "騎士団の盾",
+      "characterName": "カルメン",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999915.webp",
+      "illustrationId": "5999915",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "保護",
+              "icon": "wiki/images/general/journey_stats/stat.protection.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n古のコイン増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n皇帝\n\n成功\n+3 保護\n+3 忍耐",
+      "rawText": "ホーム\nデータベース\nアルカナ\n騎士団の盾\n\nカルメン\n\n騎士団の盾\n\nメインステータス\n\n保護\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n古のコイン増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n皇帝\n\n成功\n+3 保護\n+3 忍耐"
+    },
+    {
+      "slug": "like-an-oracle-to-flames",
+      "name": "灯蛾の予言者",
+      "characterName": "ルナ",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999901.webp",
+      "illustrationId": "5999901",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n正義\n\n成功\n+3 力\n+3 潜在力ポイント",
+      "rawText": "ホーム\nデータベース\nアルカナ\n灯蛾の予言者\n\nルナ\n\n灯蛾の予言者\n\nメインステータス\n\n力\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n正義\n\n成功\n+3 力\n+3 潜在力ポイント"
+    },
+    {
+      "slug": "master-maid",
+      "name": "マスターメイド",
+      "characterName": "クレア",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999902.webp",
+      "illustrationId": "5999902",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n潜在力ポイント増加\n+4\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの効果上昇\n+2.2%\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n力\n\n成功\n+3 力\n+3 スタミナ",
+      "rawText": "ホーム\nデータベース\nアルカナ\nマスターメイド\n\nクレア\n\nマスターメイド\n\nメインステータス\n\n力\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n潜在力ポイント増加\n+4\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの効果上昇\n+2.2%\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n力\n\n成功\n+3 力\n+3 スタミナ"
+    },
+    {
+      "slug": "mystics-partner",
+      "name": "幻獣の同伴者",
+      "characterName": "セルパン",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999913.webp",
+      "illustrationId": "5999913",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "保護",
+              "icon": "wiki/images/general/journey_stats/stat.protection.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nトレーニング出現確率上昇\n+2%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n太陽\n\n成功\n+5 保護",
+      "rawText": "ホーム\nデータベース\nアルカナ\n幻獣の同伴者\n\nセルパン\n\n幻獣の同伴者\n\nメインステータス\n\n保護\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nトレーニング出現確率上昇\n+2%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n太陽\n\n成功\n+5 保護"
+    },
+    {
+      "slug": "rabbit-with-two-faces",
+      "name": "2つの顔を持つウサギ",
+      "characterName": "リリー",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999904.webp",
+      "illustrationId": "5999904",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "力",
+              "icon": "wiki/images/general/journey_stats/stat.strength.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n力\n+1\n古のコイン増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n悪魔\n\n成功\n+5 力",
+      "rawText": "ホーム\nデータベース\nアルカナ\n2つの顔を持つウサギ\n\nリリー\n\n2つの顔を持つウサギ\n\nメインステータス\n\n力\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n力\n+1\n古のコイン増加\n+9\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n悪魔\n\n成功\n+5 力"
+    },
+    {
+      "slug": "serpent-of-the-west",
+      "name": "西部の蛇",
+      "characterName": "リディア",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999914.webp",
+      "illustrationId": "5999914",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "保護",
+              "icon": "wiki/images/general/journey_stats/stat.protection.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nトレーニング失敗率低下\n+2.8%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n恋人\n\n成功\n+3 保護\n+3 スタミナ",
+      "rawText": "ホーム\nデータベース\nアルカナ\n西部の蛇\n\nリディア\n\n西部の蛇\n\nメインステータス\n\n保護\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n絆ポイント増加\n+6\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nトレーニング失敗率低下\n+2.8%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n恋人\n\n成功\n+3 保護\n+3 スタミナ"
+    },
+    {
+      "slug": "shield-of-the-west",
+      "name": "西部の盾",
+      "characterName": "ベスタ",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999919.webp",
+      "illustrationId": "5999919",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "忍耐",
+              "icon": "wiki/images/general/journey_stats/stat.endurance.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n忍耐\n+1\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n吊るされた男\n\n成功\n+3 忍耐\n+3 集中",
+      "rawText": "ホーム\nデータベース\nアルカナ\n西部の盾\n\nベスタ\n\n西部の盾\n\nメインステータス\n\n忍耐\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n忍耐\n+1\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n吊るされた男\n\n成功\n+3 忍耐\n+3 集中"
+    },
+    {
+      "slug": "sword-of-the-west",
+      "name": "西部の剣",
+      "characterName": "セレス",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999905.webp",
+      "illustrationId": "5999905",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": null,
+      "rawText": "ホーム\nデータベース\nアルカナ\n西部の剣\n\nセレス\n\n西部の剣\n\nメインステータス\n\n体力\nレベル\n1\n34\n35\n40\n45\n50\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\nコンディション効果上昇\n+2.06%\n超感応トレーニング効果\n感応トレーニングの発生率の上昇\n+150\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n月\n\n成功\n+3 体力\n+3 スタミナ"
+    },
+    {
+      "slug": "the-girl-chasing-the-stars",
+      "name": "星を追いかける少女",
+      "characterName": "アセラ",
+      "characterSlug": null,
+      "rarity": "R",
+      "rarityKey": "r",
+      "illustration": "wiki/images/arcanas/illustration/5999906.webp",
+      "illustrationId": "5999906",
+      "stats": [
+        {
+          "group": "メインステータス",
+          "items": [
+            {
+              "label": "体力",
+              "icon": "wiki/images/general/journey_stats/stat.vitality.shadow.webp"
+            }
+          ]
+        }
+      ],
+      "savior": {
+        "title": "",
+        "effect": ""
+      },
+      "levels": [
+        "1",
+        "34",
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "journeyText": "救援の旅開始効果\n体力\n+1\n潜在力ポイント増加\n+4\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n女帝\n\n成功\n+3 体力\n+3 潜在力ポイント",
+      "rawText": "ホーム\nデータベース\nアルカナ\n星を追いかける少女\n\nアセラ\n\n星を追いかける少女\n\nメインステータス\n\n体力\nレベル\n1\n34\n35\n40\n45\n50\n救援の旅開始効果\n体力\n+1\n潜在力ポイント増加\n+4\nトレーニング効果\nトレーニングの効果上昇\n+7.04%\n超感応トレーニング効果\n超感応トレーニングの効果上昇\n+11.44%\nイベント\n\n女帝\n\n成功\n+3 体力\n+3 潜在力ポイント"
+    }
+  ]
+}
